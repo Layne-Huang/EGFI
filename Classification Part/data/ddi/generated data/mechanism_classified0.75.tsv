@@ -1,0 +1,943 @@
+mechanism	metoprolol - administration of <e10> drug1 </e10> ( 20 mg bid ) with a single dose of <e20> drug2 </e20> ( 20 mg bid ) increases the auc of drug2 by # % .
+mechanism	multivalent cation - containing products : studies in rats and monkeys indicate that <e11> drug1 </e11> can interfere with the metabolism of multivalent cation - containing products such as antacids , cyclosporine , some lithium salts , thiazide _ diuretics , and <e20> drug2 </e20> .
+mechanism	studies in humans have shown that <e10> drug1 </e10> may decrease the clearance of <e20> drug2 </e20> .
+mechanism	substances that are active in a pharmacokinetic study of <e10> drug1 </e10> may have a strong tendency to increase the plasma concentrations of this drug , particularly when it is administered concomitantly with the following : <e20> drug2 </e20> , carbamazepine , cisapride , cyclosporine , disopyramide , ergot _ derivatives , fentanyl , fluoxetine , grapefruit juice , morphine , phenytoin , theophylline , theubuticin , theophylline _ sodium , verapamil , oryzalin .
+mechanism	agents that are predominantly cytochrome p450 3a4 inhibitors ( e , g , , quinidine , fluoxetine , <e10> drug1 </e10> , alprazolam , paroxetine , sertraline , theophylline , triazolam ) may reduce the metabolism of <e20> drug2 </e20> , resulting in increased levels of drug2 and increased elimination of drug2 .
+mechanism	previous studies have shown that <e10> drug1 </e10> causes a decrease in urinary clearance of <e20> drug2 </e20> .
+mechanism	h2 - receptor _ antagonists : co - administration of <e10> drug1 </e10> with <e20> drug2 </e20> , cimetidine , or atorvastatin , and / or with carbamazepine , phenytoin , alfentanil , cisapride , disopyramide , phenytoin , rifampin , triazolam , or valproate significantly decreased the auc of cisapride .
+mechanism	saquinavir : coadministration of <e10> drug1 </e10> with <e20> drug2 </e20> or cyclosporine resulted in a 5 - to 8 - fold increase in auc and a 3 - to 6 - fold increase in cmax .
+mechanism	drug1 : <e10> drug1 </e10> decreases the metabolism of <e20> drug2 </e20> , resulting in a higher auc and cmax .
+mechanism	in vitro studies indicate that <e10> drug1 </e10> markedly decreases the hepatic metabolism of <e20> drug2 </e20> and enhances the clearance of indinavir , butylserine , and isoniazid .
+mechanism	pretreatment of healthy volunteers with <e10> drug1 </e10> ( 40 mg in a single dose ) approximately doubled the auc of <e20> drug2 </e20> ( 1 , 000 mg ) and decreased the cmax and auc of drug2 .
+mechanism	drug1 : <e10> drug1 </e10> markedly increased the plasma concentrations of <e20> drug2 </e20> and its active metabolite , prothrombin time , in healthy volunteers receiving intravenous therapy with drug2 and other anticoagulants and in patients receiving drug2 concomitantly with cyp3a4 substrates .
+mechanism	limited data in healthy volunteers suggest that <e10> drug1 </e10> may increase the exposure to <e20> drug2 </e20> .
+mechanism	multivalent cation - containing products : the oral absorption of <e11> drug1 </e11> is reduced by approximately 50 % in patients taking a multivalent cation - containing product ( e , g , , <e20> drug2 </e20> , clarithromycin ) or a non - covalent cation - containing product ( e , g , , cyclosporine , tacrolimus ) .
+mechanism	however , other published reports suggest that <e10> drug1 </e10> may increase the renal clearance of <e20> drug2 </e20> and thus increase the estrogenic effects of progestins .
+mechanism	drug1 : <e10> drug1 </e10> has been reported to reduce the metabolism of some <e22> drug2 </e22> ( e , g , , triiodothyronine , drug2 and thyroxine ) .
+mechanism	inhibitors of cyp3a4 ( e , g , , ketoconazole , itraconazole , erythromycin , clarithromycin , ritonavir , <e10> drug1 </e10> , nelfinavir ) may increase plasma levels of <e20> drug2 </e20> .
+mechanism	in a study of healthy volunteers , the oral bioavailability of <e10> drug1 </e10> was reduced by 47 % when coadministered with the # mg dose of <e20> drug2 </e20> , but not when administered with the # mg dose of a single dose of drug1 .
+mechanism	pharmacokinetic studies have shown that <e10> drug1 </e10> significantly increases the auc of <e20> drug2 </e20> by 2 - fold and the cmax by 3 - fold .
+mechanism	drugs that induce hepatic metabolism : antacids : <e10> drug1 </e10> , l - tyrosine , or other antacids may decrease the metabolism of <e20> drug2 </e20> , resulting in increased concentrations of this drug in the urine .
+mechanism	drugs which inhibit cyp3a4 activity ( eg , ketoconazole , itraconazole , erythromycin , clarithromycin , ritonavir , indinavir , <e10> drug1 </e10> , nelfinavir , saquinavir , telithromycin , troleandomycin , troleandomycin ) increase the exposure of <e20> drug2 </e20> to the liver .
+mechanism	conversely , the <e12> drug1 </e12> have been reported to decrease the clearance of intravenous <e20> drug2 </e20> by the hepatic enzyme system .
+mechanism	the gastrointestinal absorption of <e10> drug1 </e10> is impaired by hepatic metabolism of <e20> drug2 </e20> and by the metabolism of metoclopramide , and therefore the use of a combination of these drugs may result in significant increases in drug1 plasma concentrations .
+mechanism	in vitro studies suggest that the pharmacokinetic parameters of <e10> drug1 </e10> may be altered by coadministration of other <e22> drug2 </e22> and / or drugs that have similar pharmacology , such as the anticonvulsant phenytoin , carbamazepine , cimetidine , disulfiram , diazepam , phenobarbital , sulfonamides , sulfonamides _ inhibitors , sulfonamides _ inhibitors _ with _ b - blocking _ properties , and sulfonamides _ inhibitors _ with _ b - blocking _ properties .
+mechanism	uricosuric _ drugs , such as <e10> drug1 </e10> , may reduce the clearance of <e20> drug2 </e20> and , therefore , may increase the plasma concentration of drug2 .
+mechanism	<e10> drug1 </e10> reduced the metabolism of <e20> drug2 </e20> , a known cyp3a4 inhibitor , by up to 33 % .
+mechanism	ketoconazole : coadministration of <e10> drug1 </e10> # mg once daily with <e20> drug2 </e20> # mg daily reduced the auc of drug2 from # to # , 000 ( c - max ) # mg / h .
+mechanism	since zarontin ( <e10> drug1 </e10> ) and other anticholinergics have been reported to interfere with the metabolism of <e20> drug2 </e20> , the anticholinergic effects of drug2 can be exacerbated by the concomitant administration of these agents .
+mechanism	another oral azole _ antifungal , <e10> drug1 </e10> , has been shown to increase the exposure of <e20> drug2 </e20> , ciprofloxacin , or cefazolin , which are potent inhibitors of cyp3a4 , resulting in inhibition of the exposure of these drugs .
+mechanism	antifungals : in a single dose of # mg <e10> drug1 </e10> # hours before administration of # mg of <e20> drug2 </e20> , the half - life of drug1 was reduced by 50 % .
+mechanism	drug1 : <e10> drug1 </e10> has been reported to reduce the bioavailability of <e20> drug2 </e20> by decreasing the hepatic metabolism of drug2 and increasing plasma levels of the drug .
+mechanism	colestipol : plasma levels of <e10> drug1 </e10> were increased in patients with chronic renal failure treated with <e20> drug2 </e20> or low - dose methotrexate .
+mechanism	<e12> drug1 </e12> may increase the clearance of <e20> drug2 </e20> by inhibiting cyp3a4 .
+mechanism	oral <e10> drug1 </e10> # mg given at # - hour intervals in a dose of # mg / kg for # days was associated with a mean decrease in <e20> drug2 </e20> auc of 11 % and decrease in auc ( 20 ) of 3 % compared with # mg / kg given at # - hour intervals in a dose of # mg / kg for # days in healthy volunteers .
+mechanism	drug1 : <e10> drug1 </e10> causes an approximately 40 % reduction in the half - life of <e20> drug2 </e20> .
+mechanism	antacids : in a study in diabetic rats , <e10> drug1 </e10> decreased <e20> drug2 </e20> binding by approximately 50 % .
+mechanism	thus <e10> drug1 </e10> increased auc by # % and cmax by # % when coadministered with <e20> drug2 </e20> .
+mechanism	however , other published data have shown that <e10> drug1 </e10> can increase <e20> drug2 </e20> serum levels .
+mechanism	ketoconazole : when <e10> drug1 </e10> and <e20> drug2 </e20> are used concomitantly , increases in cmax and auc may occur .
+mechanism	the clearance of <e11> drug1 </e11> was significantly decreased by <e20> drug2 </e20> treatment , whereas the clearance of rifampin and carbamazepine was increased .
+mechanism	other potentially important pharmacologically interactions of phenytoin : the metabolism of <e10> drug1 </e10> may result in decreased plasma levels of <e20> drug2 </e20> and may increase the clearance of the drug when coadministered with cyclosporine , carbamazepine , phenobarbital , rifampin , and tacrolimus .
+mechanism	the oral bioavailability of <e11> drug1 </e11> was reduced by # % when coadministered with <e20> drug2 </e20> , increasing the risk of induration on the oral mucosa .
+mechanism	effects of other drugs and drug interactions : drug1 : <e10> drug1 </e10> may decrease plasma <e20> drug2 </e20> concentrations by twofold .
+mechanism	the absorption of <e10> drug1 </e10> is enhanced when coadministered with <e20> drug2 </e20> .
+mechanism	these studies indicate that <e10> drug1 </e10> is likely to increase the clearance of <e20> drug2 </e20> , which may lead to increased auc values .
+mechanism	<e10> drug1 </e10> was shown to enhance the pharmacokinetics of <e20> drug2 </e20> and to cause increased exposure to the active metabolite of drug2 , ethinyl _ estradiol , as measured in plasma and urine .
+mechanism	ampicillin : in a randomized , double - blind , placebo - controlled trial of healthy subjects receiving a dose of # mg <e10> drug1 </e10> once daily for # days , daily doses of # mg for # days produced a decrease in <e20> drug2 </e20> auc and cmax values by about # % and auc and cmax values by about 6 % .
+mechanism	dicumarol : it has been reported that <e10> drug1 </e10> may enhance the metabolism of <e20> drug2 </e20> , resulting in a higher exposure of the active drug .
+mechanism	although specific studies have not been conducted , concomitant use of <e10> drug1 </e10> may result in decreased serum levels of <e20> drug2 </e20> .
+mechanism	corticosteroids : a significant increase in serum <e10> drug1 </e10> levels has been reported when <e20> drug2 </e20> is administered concomitantly .
+mechanism	digoxin : when co - administered with <e10> drug1 </e10> , <e20> drug2 </e20> auc and cmax were decreased by 17 % and 25 % , respectively .
+mechanism	tricyclic _ antidepressants ( drug2 , <e10> drug1 </e10> , sertraline , paroxetine ) : induce <e20> drug2 </e20> elimination by increasing plasma levels of drug2 and the other active metabolite , norepinephrine .
+mechanism	<e10> drug1 </e10> in dose - dependent and dose - independent manner increases the half - life of <e20> drug2 </e20> by lowering the active metabolite and thus inhibiting the absorption of drug2 .
+mechanism	agents that are predominantly renal tubular acid - base inducers ( e , g , , <e10> drug1 </e10> , cimetidine , enalapril ) may increase plasma concentrations of <e20> drug2 </e20> , doxorubicin , methotrexate , or methotrexate .
+mechanism	<e11> drug1 </e11> , as with other methotrexate _ drugs , has been reported to interfere with the metabolism of <e20> drug2 </e20> , a potent inducer of hepatic metabolism .
+mechanism	in patients who are receiving intravenous <e10> drug1 </e10> , increased oral clearance of <e20> drug2 </e20> may occur , possibly increasing the dose requirement and resulting in increased drug2 exposure .
+mechanism	inhibitors of cyp3a4 , such as ketoconazole , fluconazole , itraconazole , itraconazole - related drugs , drug1 , drug1 - boosted <e10> drug1 </e10> , saquinavir , and drug1 - associated drugs have been shown to increase plasma levels of <e20> drug2 </e20> .
+mechanism	drug1 : <e10> drug1 </e10> may decrease the clearance of <e20> drug2 </e20> and concomitantly increase the serum levels of this prodrug .
+mechanism	inhibitors or substrates of cyp2c9 ( e , g , , ketoconazole , itraconazole , erythromycin , clarithromycin , nefazodone , <e10> drug1 </e10> , saquinavir , nelfinavir , indinavir , indinavir , drug1 , saquinavir , telithromycin , troleandomycin , terfenadine ) may increase the metabolism of <e20> drug2 </e20> , resulting in increased exposure of drug2 to serum and urine .
+mechanism	metformin : in vitro and in vivo studies have shown that <e10> drug1 </e10> can decrease the metabolism of <e20> drug2 </e20> .
+mechanism	acidifying _ agents : gastrointestinal _ acidifying _ agents such as pancreatic enzymes or glutamine _ sulfate or <e10> drug1 </e10> may decrease the clearance of <e20> drug2 </e20> by interfering with its hydroxylation .
+mechanism	plasma exposure ( auc ) of <e10> drug1 </e10> was significantly increased by coadministration with <e20> drug2 </e20> , compared with drug2 alone .
+mechanism	methenamine therapy : urinary excretion of <e10> drug1 </e10> may increase approximately twofold following administration of a single dose of # mg / day of <e20> drug2 </e20> .
+mechanism	the plasma concentration of <e10> drug1 </e10> was decreased by 50 % when given with a single dose of <e20> drug2 </e20> .
+mechanism	digoxin : in a study in healthy volunteers , drug2 clearance was reduced by # % when <e10> drug1 </e10> was coadministered with <e20> drug2 </e20> , and was increased when drug2 was given concurrently with drug2 .
+mechanism	isoflurane , enflurane , and <e10> drug1 </e10> are the most effective at blocking the hepatic absorption of <e20> drug2 </e20> .
+mechanism	uricosuric _ drugs , such as <e10> drug1 </e10> , may cause increased concentrations of <e20> drug2 </e20> .
+mechanism	adenosine : <e10> drug1 </e10> ( 50 mg once daily for # days ) decreased the renal clearance of <e20> drug2 </e20> ( 40 mg once daily for # days ) and reduced the renal clearance of succinylcholine ( 100 mg once daily for # days ) .
+mechanism	the gastrointestinal absorption of <e10> drug1 </e10> is reduced by approximately 50 % when it is coadministered with <e20> drug2 </e20> .
+mechanism	- cholestyramine and <e10> drug1 </e10> may increase plasma concentrations of <e20> drug2 </e20> and decrease clearance of drug2 .
+mechanism	oral <e10> drug1 </e10> can inhibit the metabolism of <e20> drug2 </e20> , resulting in lower serum drug2 levels and a longer interval between drug2 and serum creatinine concentrations .
+mechanism	co - administration with <e10> drug1 </e10> ( 50 mg qd ) resulted in a significant decrease in <e20> drug2 </e20> levels and an increase in the time required for steady - state drug2 levels to return to normal values .
+mechanism	in a study in rats , <e10> drug1 </e10> increased the clearance of <e20> drug2 </e20> by 27 % .
+mechanism	<e10> drug1 </e10> may decrease the renal clearance of <e20> drug2 </e20> , resulting in lower plasma levels and increased auc .
+mechanism	phenobarbital : coadministration of <e10> drug1 </e10> and <e20> drug2 </e20> , carbamazepine , or phenytoin significantly reduced the clearance of drug2 ( by a factor of approximately 8 to 10 ) .
+mechanism	however , a crossover study in healthy volunteers indicated that <e10> drug1 </e10> increased the <e20> drug2 </e20> dose by approximately 3 % .
+mechanism	corticosteroids : a dose of <e10> drug1 </e10> # mg once daily decreased the plasma concentration of <e20> drug2 </e20> by 46 % ( 47 % in the first and 26 % in the second month ) .
+mechanism	the plasma concentration of <e10> drug1 </e10> is increased when administered with probenecid , ciprofloxacin , or <e20> drug2 </e20> .
+mechanism	capsules <e11> drug1 </e11> significantly decreased the clearance of <e20> drug2 </e20> , resulting in a significant increase in plasma levels of drug2 .
+mechanism	therefore , <e10> drug1 </e10> may decrease the bioavailability of <e20> drug2 </e20> .
+mechanism	caffeine drug1 <e10> drug1 </e10> may decrease the bioavailability of <e20> drug2 </e20> by interfering with cyp3a4 metabolism .
+mechanism	in vitro studies , as well as in vivo studies , have demonstrated that <e10> drug1 </e10> can inhibit the metabolism of <e20> drug2 </e20> , a major metabolite of drug1 .
+mechanism	the cmax of <e10> drug1 </e10> was reduced by 25 % and 50 % when coadministered with <e20> drug2 </e20> and at a dose of # mg of drug1 , respectively .
+mechanism	drugs which inhibit cyp3a4 ( eg , ketoconazole , itraconazole , ritonavir , clarithromycin , indinavir , nelfinavir , <e10> drug1 </e10> , drug1 _ sulfate , drug1 _ citrate , ritonavir , saquinavir , telithromycin ) may reduce the absorption of <e20> drug2 </e20> and result in elevated serum levels of drug2 .
+mechanism	the plasma concentration of <e10> drug1 </e10> is increased by approximately 50 % when coadministered with <e20> drug2 </e20> .
+mechanism	human pharmacokinetics data suggest that <e10> drug1 </e10> may reduce the clearance of <e20> drug2 </e20> .
+mechanism	drug1 : <e10> drug1 </e10> may inhibit the metabolism of <e20> drug2 </e20> or other anticoagulants by decreasing the hepatic enzyme activity of these medications .
+mechanism	when <e10> drug1 </e10> was added to the combination therapy , there was a strong reduction in the rate of <e20> drug2 </e20> exposure .
+mechanism	drug1 : <e10> drug1 </e10> may decrease the absorption of <e20> drug2 </e20> , which is a substrate for this isoenzyme .
+mechanism	the plasma concentration of <e10> drug1 </e10> is reduced by approximately 50 % when given with <e20> drug2 </e20> .
+mechanism	in vivo studies : <e10> drug1 </e10> ( 100 mg / kg / day ) decreased the <e20> drug2 </e20> clearance from 5 to 1 % .
+mechanism	h2 _ receptor _ antagonists : <e10> drug1 </e10> and halothane prolong the half - life of <e20> drug2 </e20> .
+mechanism	<e10> drug1 </e10> reduced the uptake of <e20> drug2 </e20> , as shown by the rate of intravenous drug2 infusion and the area under the plasma concentration time curve of drug2 in dogs .
+mechanism	administration of <e12> drug1 </e12> may result in a significant decrease in the clearance of <e20> drug2 </e20> and therefore , the extent of drug2 absorption .
+mechanism	<e10> drug1 </e10> , and / or vitamin _ b12 may interfere with the absorption of <e20> drug2 </e20> , thus resulting in lower plasma levels .
+mechanism	when <e10> drug1 </e10> was added to plasma and / or urine samples , an increase in <e20> drug2 </e20> and rifampin plasma concentrations and a decrease in drug2 and rifampin urine concentrations were noted .
+mechanism	binding to serum serum - thrombolysis inhibitors : <e10> drug1 </e10> significantly decreased the mean serum concentration of <e20> drug2 </e20> by 30 % .
+mechanism	hydrochlorothiazide : in rats , oral <e10> drug1 </e10> ( 20 mg / kg body weight , q12h ) increased the hepatic elimination of <e20> drug2 </e20> by 24 % and inhibited the hepatic absorption of drug1 by 15 % .
+mechanism	<e10> drug1 </e10> may interfere with <e20> drug2 </e20> metabolism , leading to increased drug2 serum concentrations and increased drug2 metabolism .
+mechanism	ketoconazole : coadministration of <e10> drug1 </e10> ( 20 mg twice daily ) with <e20> drug2 </e20> ( 5 mg once daily ) for # weeks caused a reduction in the auc of drug2 to # % of its baseline value .
+mechanism	phenytoin : altered plasma levels of <e10> drug1 </e10> may result in impaired absorption of <e20> drug2 </e20> .
+mechanism	after multiple dosing , <e10> drug1 </e10> caused a decrease in the clearance of <e20> drug2 </e20> and increases in the cmax and auc of drug2 .
+mechanism	<e12> drug1 </e12> , including ciprofloxacin , are reported to inhibit the metabolism of <e20> drug2 </e20> and its derivatives and prolong the half - life of these agents .
+mechanism	- drug1 : <e10> drug1 </e10> may inhibit the metabolism of <e20> drug2 </e20> , resulting in decreased serum concentrations and toxicity .
+mechanism	cyclosporin : after administration of <e10> drug1 </e10> , the <e20> drug2 </e20> clearance was increased by 14 % .
+mechanism	although specific studies have not been performed , evidence from in vitro studies of a small number of drugs indicates that the metabolism of <e10> drug1 </e10> may be changed by concomitant administration of <e20> drug2 </e20> .
+mechanism	agents that are potent inhibitors of cyp3a4 ( eg , ketoconazole , itraconazole , nefazodone , ritonavir , <e10> drug1 </e10> , clarithromycin , saquinavir , indinavir , saquinavir , saquinavir , nefazodone ) may result in increased plasma concentrations of <e20> drug2 </e20> .
+mechanism	digoxin : in a study in healthy volunteers , <e10> drug1 </e10> decreased the auc and cmax of <e20> drug2 </e20> by 43 % and 33 % , respectively , and the auc and cmax of cimetidine by 41 % and 23 % , respectively .
+mechanism	in vitro , <e10> drug1 </e10> increases the half - life of <e20> drug2 </e20> and cimetidine by about 3 % and about 15 % , respectively , but increases the half - life of cimetidine by about 8 % and about 5 % , respectively , compared to drug1 alone .
+mechanism	in a study in healthy subjects , <e10> drug1 </e10> at doses of # mg or # mg taken concomitantly with <e20> drug2 </e20> , a potent inhibitor of cyp3a4 , significantly reduced the systemic exposure of drug2 by 40 % and 43 % , respectively .
+mechanism	erythromycin and <e10> drug1 </e10> may inhibit the metabolism of digoxin , methyldopa , <e20> drug2 </e20> , and lithium , leading to a prolongation of therapeutic plasma levels .
+mechanism	corticosteroids : a <e12> drug1 </e12> was found to decrease the serum levels of <e20> drug2 </e20> in healthy volunteers .
+mechanism	drug1 : <e10> drug1 </e10> has been shown to increase the absorption of <e20> drug2 </e20> and to decrease the auc of drug2 .
+mechanism	in the first study , a significant increase in <e10> drug1 </e10> plasma levels was observed when <e20> drug2 </e20> was administered at a dose of # mg / kg of body weight # times a day for # days .
+mechanism	after multiple dosing , a significant increase in the clearance of <e10> drug1 </e10> was observed when coadministered with <e20> drug2 </e20> , at two to three times the normal dose .
+mechanism	because <e10> drug1 </e10> may inhibit the hepatic metabolism of <e20> drug2 </e20> , or because drug1 increases the levels of drug2 , caution should be exercised when administering drug2 to patients receiving oral agents with similar properties such as drug1 .
+mechanism	the elimination half - life of <e10> drug1 </e10> is lengthened by the concomitant administration of several <e22> drug2 </e22> , possibly due to the formation of a thyroid - stimulating agent , 3 , 3 ' - diiodothyronine , which inhibits the metabolism of drug1 .
+mechanism	coadministration with <e10> drug1 </e10> reduced the extent of <e20> drug2 </e20> clearance by 25 % , suggesting that coadministration may be an effective means of decreasing drug2 toxicity .
+mechanism	fluconazole : concomitant administration of <e10> drug1 </e10> and <e20> drug2 </e20> resulted in a 3 . 6 - fold increase in the exposure of drug1 .
+mechanism	however , in a study in healthy volunteers , a reduction of <e10> drug1 </e10> serum levels was observed after coadministration of <e20> drug2 </e20> .
+mechanism	drug1 : <e10> drug1 </e10> reduced the plasma concentrations of <e20> drug2 </e20> , did not alter the elimination half - life of drug2 , and did not affect the hepatic metabolism of drug2 .
+mechanism	adenosine : <e10> drug1 </e10> may enhance the absorption of <e20> drug2 </e20> , which is a calcium salt , causing a reduction of the absorption of the free drug2 .
+mechanism	acetaminophen : in vitro studies have shown that <e10> drug1 </e10> inhibits the metabolism of <e20> drug2 </e20> by inhibiting the hepatic cytochrome p450 system .
+mechanism	administration of <e10> drug1 </e10> may reduce the clearance of <e20> drug2 </e20> and decrease its anticoagulation effect .
+mechanism	in a single study in normal volunteers , <e10> drug1 </e10> significantly decreased the clearance of <e20> drug2 </e20> by approximately 50 % .
+mechanism	in a multiple - dose study in healthy volunteers , coadministration of <e10> drug1 </e10> with <e20> drug2 </e20> resulted in a 40 % increase in drug2 clearance .
+mechanism	corticosteroids : a study in male rats of a single # mg dose of <e10> drug1 </e10> # mg daily for # days was shown to result in a 42 % increase in plasma levels of <e20> drug2 </e20> .
+mechanism	levothyroxine _ sodium absorption : the metabolism of <e11> drug1 </e11> may result in a decreased absorption of <e20> drug2 </e20> .
+mechanism	drugs that induce hepatic enzymes such as phenytoin , <e10> drug1 </e10> , phenobarbital , phenytoin _ sodium , and drug1 may decrease the clearance of <e20> drug2 </e20> , resulting in increased serum levels .
+mechanism	carbamazepine : in vitro data suggest that <e10> drug1 </e10> may inhibit <e20> drug2 </e20> metabolism by decreasing hepatic enzyme activity and increasing the metabolism of drug2 .
+mechanism	the coadministration of <e10> drug1 </e10> decreased the plasma level of <e20> drug2 </e20> by 43 % .
+mechanism	lithium : <e12> drug1 </e12> may increase the bioavailability of <e20> drug2 </e20> .
+mechanism	co - treatment with the selective cyp3a4 inducer <e10> drug1 </e10> ( 1 microm ) increased the plasma concentration of <e20> drug2 </e20> by approximately 17 % and increased drug2 concentrations by an average of 29 % in healthy volunteers co - administered with a single dose of 100 microg / kg of drug2 .
+mechanism	drug1 : <e10> drug1 </e10> increases the clearance of <e20> drug2 </e20> , resulting in a decrease in plasma drug2 levels and a significant increase in urinary drug2 excretion .
+mechanism	intestinal _ adsorbents ( e , g , , tetracycline , colistin , bacitracin , <e10> drug1 </e10> ) may reduce the absorption of <e20> drug2 </e20> , resulting in a higher plasma concentration .
+mechanism	saquinavir : coadministration of <e10> drug1 </e10> and <e20> drug2 </e20> ( 6 . 3 mg / kg ) resulted in a decrease in cmax and auc values by a factor of 10 and 40 , respectively .
+mechanism	limited data in the u . s . suggest that <e12> drug1 </e12> may reduce the plasma levels of the anticoagulant , <e20> drug2 </e20> or its derivatives , or that the pharmacokinetics of these agents may be altered by drug1 .
+mechanism	ketoconazole : co - administration of <e10> drug1 </e10> tablets ( 400 mg ) with <e20> drug2 </e20> ( 3 mg ) caused a 5 % increase in drug2 exposure ( mean + / - sd ) and a mean increase in # mg drug2 clearance ( 3 . 0 + / - 0 . 9 mg / day ) .
+mechanism	drug1 , foscarnet , phenytoin , and sulfonamides : <e10> drug1 </e10> , foscarnet , and phenytoin increase the clearance of <e20> drug2 </e20> and decrease the clearance of dideoxacin .
+mechanism	agents that are potent inhibitors of cyp3a4 ( eg , ketoconazole , itraconazole , drug2 , clarithromycin , ritonavir , nelfinavir , <e10> drug1 </e10> , indinavir , saquinavir , telithromycin ) may increase plasma levels of <e20> drug2 </e20> or other drugs that are metabolized by cyp3a4 .
+mechanism	in a study in normal volunteers , the oral <e10> drug1 </e10> clearance was reduced by 50 % when administered with <e20> drug2 </e20> ( 12 micrograms daily ) .
+mechanism	although specific studies have not been performed , it is possible that the metabolism of <e10> drug1 </e10> may have been affected by <e20> drug2 </e20> .
+mechanism	non - nucleoside _ reverse _ transcriptase _ inhibitors ( nnrtis ) : clinical studies have shown that the metabolism of <e11> drug1 </e11> may be inhibited by non - nucleoside _ rnas such as <e20> drug2 </e20> and the anticonvulsant phenytoin .
+mechanism	methotrexate : <e10> drug1 </e10> increased the exposure of <e20> drug2 </e20> to a greater extent than did other glucocorticoids , and elevated the oral clearance of drug2 to a greater extent than did other glucocorticoids .
+mechanism	iron _ supplements and foods : <e10> drug1 </e10> has been shown to decrease the absorption of iron supplements and some <e22> drug2 </e22> and foods , possibly by altering the metabolism of iron .
+mechanism	prednisolone : <e10> drug1 </e10> significantly reduced the bioavailability of <e20> drug2 </e20> by a mean of 11 % .
+mechanism	however , the peak plasma levels of <e10> drug1 </e10> may be significantly reduced with coadministration of <e20> drug2 </e20> .
+mechanism	antacids containing drug1 _ hydroxide , magnesium _ hydroxide , or drug1 trisodium , or other metal cations , such as iron , drug1 , magnesium , or iron _ hydroxide , or the combination of drug1 <e10> drug1 </e10> and iron _ hydroxide , magnesium , or iron _ hydroxide , may interfere with the absorption of <e20> drug2 </e20> or its derivatives and may increase the pharmacologic effect of drug2 .
+mechanism	in a study in normal volunteers , <e10> drug1 </e10> significantly reduced the # mg intravenous dose of oral <e20> drug2 </e20> by 39 % ( 95 % ci , 18 % to 55 % ) and increased the mean # mg / day dose by 28 % ( 95 % ci , 7 % to 43 % ) .
+mechanism	however , # mg <e10> drug1 </e10> decreased the maximum plasma concentrations of # mg <e20> drug2 </e20> by 40 % .
+mechanism	anticonvulsants ( phenytoin , trileptal , felbatol ) : <e10> drug1 </e10> increases the plasma concentration of <e20> drug2 </e20> , but not that of the anticonvulsant , but the change is small and not clinically significant .
+mechanism	cyclosporin : reports suggest that <e12> drug1 </e12> may interfere with the metabolism of <e20> drug2 </e20> .
+mechanism	elevated plasma levels of <e10> drug1 </e10> have been reported in patients receiving <e20> drug2 </e20> , another cyp3a4 inducer .
+mechanism	ampicillin : in vitro data indicate that <e10> drug1 </e10> increases the steady - state clearance of <e20> drug2 </e20> by increasing its auc .
+mechanism	for example , since <e10> drug1 </e10> reduce the absorption of <e20> drug2 </e20> , the possibility exists that drug1 may increase the blood levels of drug2 .
+mechanism	agents that are primarily protein - bound , such as tricyclic _ antidepressants and <e10> drug1 </e10> , may cause elevated plasma concentrations of <e20> drug2 </e20> , which may increase its absorption and metabolism and thereby decrease the efficacy of drug2 .
+mechanism	co - administration of <e11> drug1 </e11> with <e20> drug2 </e20> , an inhibitor of cyp2c9 , decreased the auc and cmax of drug1 by 40 % and 30 % , respectively .
+mechanism	valproate : a dose of # mg / day of <e10> drug1 </e10> for # days is reported to have caused a 25 % decrease in <e20> drug2 </e20> levels .
+mechanism	<e10> drug1 </e10> inhibited the hepatic metabolism of <e20> drug2 </e20> , which had a narrow therapeutic index .
+mechanism	coadministration with compounds that inhibit cyp3a4 ( e , g , , ketoconazole , itraconazole , ritonavir , erythromycin , clarithromycin , <e10> drug1 </e10> , nefazodone , drug1 , ritonavir , saquinavir , telithromycin , troleandomycin ) increased the plasma concentrations of <e20> drug1 </e20> and may have resulted in the higher concentrations of drug1 in patients on cyclosporine .
+mechanism	drugs that cause renal tubular secretion of <e12> drug1 </e12> may reduce the renal clearance of <e20> drug2 </e20> and may require increases in drug2 dosage .
+mechanism	agents with increased aminotransferase activity quinidine and <e10> drug1 </e10> decrease <e20> drug2 </e20> renal clearance .
+mechanism	<e12> drug1 </e12> may decrease the absorption of <e20> drug2 </e20> , causing a change in its pharmacokinetics .
+mechanism	drugs which induce hepatic metabolism of <e11> drug1 </e11> , such as phenytoin , carbamazepine , phenobarbital , and alfentanil , may increase plasma concentrations of <e20> drug1 </e20> .
+mechanism	warfarin : <e12> drug1 </e12> , including nabilone , increase the exposure of <e20> drug2 </e20> , resulting in a potential for increased anticoagulant effects .
+mechanism	- indomethacin : coadministration of <e10> drug1 </e10> with <e20> drug2 </e20> reduced the auc of drug2 by # % .
+mechanism	or with multivitamins and vitamin _ b - containing preparations , taking <e11> drug1 </e11> tablets at the recommended dosages for these drugs can reduce the absorption of the vitamin _ b and its active metabolite , <e20> drug2 </e20> , resulting in elevated levels of the latter .
+mechanism	in vitro data indicate that <e10> drug1 </e10> may decrease the plasma levels of <e20> drug2 </e20> .
+mechanism	and videx , <e10> drug1 </e10> and cimetidine may reduce the renal clearance of <e20> drug2 </e20> and decrease its effect on renal tubular secretion of vitamin _ k .
+mechanism	antidepressants : in postmarketing experience , <e10> drug1 </e10> has been reported to reduce the clearance of a single <e20> drug2 </e20> dose by 23 % and of a single dose of a single ssri by 20 % .
+mechanism	aspirin : in studies with rats and monkeys , <e10> drug1 </e10> inhibited the renal clearance of <e20> drug2 </e20> by 33 % and decreased the creatinine clearance of drug2 by 18 % .
+mechanism	drug1 : <e10> drug1 </e10> was found to inhibit <e20> drug2 </e20> metabolism , leading to a reduction in its bioavailability .
+mechanism	amitriptyline : concurrent administration of <e10> drug1 </e10> with <e20> drug2 </e20> may increase the auc of the drug by approximately 10 % ( p , o , ) .
+mechanism	when used in combination with other antituberculosis _ drugs , <e10> drug1 </e10> markedly increased the clearance of <e20> drug2 </e20> and did not affect its metabolism to aminoglycosides or to theophylline .
+mechanism	ethanol : clinical evidence indicates that the metabolism of <e10> drug1 </e10> may be impaired by <e20> drug2 </e20> .
+mechanism	in # other studies , <e10> drug1 </e10> increased the concentrations of <e20> drug2 </e20> in # subjects .
+mechanism	protease _ inhibitors : <e10> drug1 </e10> increases the auc of <e20> drug2 </e20> by about # % .
+mechanism	in eight hiv - infected patients , the mean cmax of <e10> drug1 </e10> increased by 46 % when a single # mg dose of <e20> drug1 </e20> # mg was administered , and the mean auc by 46 % .
+mechanism	however , in a small study , it was observed that <e10> drug1 </e10> increased plasma levels of <e20> drug2 </e20> , a known inhibitor of hepatic metabolism , by # - fold .
+mechanism	the plasma concentration of <e10> drug1 </e10> was reduced by about 46 % when coadministered with <e20> drug2 </e20> .
+mechanism	uricosuric _ drugs , such as <e10> drug1 </e10> , may decrease the metabolism of <e20> drug2 </e20> .
+mechanism	ingestion of <e10> drug1 </e10> at # mg / kg significantly decreased the plasma concentration of <e20> drug2 </e20> by approximately 50 % .
+mechanism	because drug1 is a dopamine _ d2 _ receptor _ agonist , it is possible that <e11> drug1 </e11> may increase <e20> drug2 </e20> levels and thus increase the pharmacologic effect of the drug .
+mechanism	a # to # mg dose of <e10> drug1 </e10> # mg once daily decreased the plasma levels of <e20> drug2 </e20> by 11 % , while the oral clearance of drug2 increased by 25 % .
+mechanism	agents that induce hepatic enzymes such as <e10> drug1 </e10> , phenytoin , and isoniazid may increase the clearance of <e20> drug2 </e20> and decrease serum concentrations .
+mechanism	drug1 : <e10> drug1 </e10> may decrease the bioavailability of <e20> drug2 </e20> and may increase the clearance of norethindrone and warfarin .
+mechanism	binding to serum : in vitro , <e10> drug1 </e10> inhibited the binding of <e20> drug2 </e20> to serum by 50 % and that of its metabolite to serum by 60 % .
+mechanism	warfarin , digoxin , and co - administration : co - administration of <e11> drug1 </e11> with warfarin , <e20> drug2 </e20> , and corticosteroids increased auc and cmax .
+mechanism	theophylline : as a tricyclic _ antidepressant , <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> .
+mechanism	tricyclic _ antidepressants ( amitriptyline , imipramine , <e10> drug1 </e10> ) may decrease the clearance of <e20> drug2 </e20> and may require increases in drug2 dosage to achieve steady state concentrations .
+mechanism	antacids and sucralfate : drug1 : <e10> drug1 </e10> supplements may decrease the absorption of <e20> drug2 </e20> by decreasing the amount of aluminum in the gastrointestinal tract .
+mechanism	cimetidine : in vitro , <e10> drug1 </e10> ( 100 microm ) decreased the metabolism of <e20> drug2 </e20> by about 7 % .
+mechanism	<e10> drug1 </e10> may interfere with metabolism of oral <e22> drug2 </e22> or other anticonvulsants or other potent inhibitors of blood clotting .
+mechanism	ganciclovir : administration of <e10> drug1 </e10> decreased plasma concentrations of <e20> drug2 </e20> and decreased its pharmacokinetic profile .
+mechanism	plasma concentrations of <e10> drug1 </e10> are increased by the concomitant administration of <e20> drug2 </e20> , a drug known to inhibit cyp3a4 activity .
+mechanism	drug1 : <e10> drug1 </e10> increased the clearance of <e20> drug2 </e20> , a known inhibitor of renal tubular secretion , by 26 % .
+mechanism	acidifying _ agents : gastrointestinal _ acidifying _ agents ( <e12> drug1 </e12> , gastric antacid , certain nonsteroidal _ anti - inflammatory _ drugs , etc , ) inhibit the metabolism of <e22> drug2 </e22> .
+mechanism	previous studies have shown that <e10> drug1 </e10> has a dose - dependent effect on the clearance of digoxin , <e20> drug2 </e20> , and other anticoagulants .
+mechanism	in normal volunteers , <e10> drug1 </e10> increased the clearance of <e20> drug2 </e20> by 15 % .
+mechanism	intestinal _ adsorbents ( e , g , , furosemide , <e10> drug1 </e10> ) have been reported to increase the absorption of <e20> drug2 </e20> and are likely to decrease the clearance of drug2 .
+mechanism	drugs which inhibit hepatic enzymes such as phenytoin , rifampin , or <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> , resulting in an increase in the daily dose of drug2 .
+mechanism	in vitro data suggest that <e10> drug1 </e10> inhibits the metabolism of the <e20> drug2 </e20> by increasing the activity of the cycloheximide .
+mechanism	in vitro studies have shown that <e10> drug1 </e10> inhibits <e20> drug2 </e20> metabolism by interfering with the biosynthesis of drug1 by the cyp2c9 isozyme .
+mechanism	plasma levels of <e10> drug1 </e10> are decreased by <e20> drug2 </e20> , presumably because of a competitive inhibition of the cyp2c9 isoenzyme .
+mechanism	hepatic enzyme inducers , enzyme inhibitors and hepatic stabilizers coadministration of <e10> drug1 </e10> with <e20> drug2 </e20> # mg for # days significantly decreased drug1 plasma concentrations by 19 % .
+mechanism	binding to serum albumin : since the concentrations of <e10> drug1 </e10> are increased when the drug is given with <e20> drug2 </e20> , it is suggested that drug2 , which has a strong binding to serum albumin , may interfere with the elimination of drug1 .
+mechanism	although specific studies have not been conducted , it has been reported that <e10> drug1 </e10> significantly reduced the clearance of <e20> drug2 </e20> and that its metabolism by cyp3a4 is likely to contribute to its pharmacokinetic properties .
+mechanism	however , <e10> drug1 </e10> markedly increased the metabolism of <e20> drug2 </e20> , resulting in an increase in the mean steady state plasma concentrations of drug2 from # microm to # microm .
+mechanism	rifampin : coadministration of <e10> drug1 </e10> with <e20> drug2 </e20> significantly reduced the auc of drug1 by 36 % and increased the auc of drug2 by 27 % .
+mechanism	magnesium - and aluminum - containing preparations ( eg , <e10> drug1 </e10> and zinc ) have been reported to reduce the bioavailability of <e20> drug2 </e20> .
+mechanism	although specific studies have not been performed , it is likely that the metabolism of <e10> drug1 </e10> may be altered by the presence of other cationic _ antidepressants , <e22> drug2 </e22> , or drug2 _ derivatives , and therefore drug1 dosage may need to be adjusted .
+mechanism	<e10> drug1 </e10> increases the clearance of <e20> drug2 </e20> , a known inhibitor of cyp3a4 .
+mechanism	<e10> drug1 </e10> increased the clearance of <e20> drug2 </e20> , an effect that was inhibited by methylphenidate .
+mechanism	a study in healthy volunteers found that <e10> drug1 </e10> reduced the plasma concentrations of <e20> drug2 </e20> by approximately 20 % .
+mechanism	agents that are cyp3a4 inhibitors ( such as ketoconazole and <e10> drug1 </e10> ) can increase <e20> drug2 </e20> levels , potentially resulting in elevated auc and cmax values .
+mechanism	praziquantel : in a study in normal volunteers , <e10> drug1 </e10> was reported to increase the plasma concentrations of <e20> drug2 </e20> by about 50 % .
+mechanism	concomitant administration of <e10> drug1 </e10> with high doses of <e20> drug2 </e20> ( 50 mg , maximum recommended daily dose ) , fluconazole ( 50 mg , maximum recommended daily dose ) , or bacitracin ( 50 mg , maximum recommended daily dose ) increased the auc and cmax of drug1 and drug2 by about 50 % and about 20 % , respectively .
+mechanism	the lower rate of renal clearance of <e10> drug1 </e10> may be attributed to the lower serum concentration of <e20> drug1 </e20> and the higher activity of ritonavir .
+mechanism	inhibitors of cyp3a4 ( alprazolam , <e10> drug1 </e10> , cimetidine , fluvoxamine , paroxetine , sertraline ) decrease plasma concentrations of <e20> drug2 </e20> and therefore may increase its toxicity .
+mechanism	limited data in non - human primates suggest that <e10> drug1 </e10> may reduce the blood concentration of <e20> drug2 </e20> .
+mechanism	tricyclic _ antidepressants ( amitriptyline , <e10> drug1 </e10> , sertraline , paroxetine ) may inhibit the metabolism of <e20> drug2 </e20> , resulting in a slower metabolism of drug2 and higher plasma levels of drug2 .
+mechanism	cimetidine : in a study in volunteers with cystic fibrosis , <e10> drug1 </e10> was found to decrease plasma levels of <e20> drug2 </e20> by 40 % and norethindrone by 30 % .
+mechanism	rifampin : <e10> drug1 </e10> reduces the renal clearance of <e20> drug2 </e20> and this may prolong the elimination half - life of drug2 .
+mechanism	co - medications that induce cyp3a4 activity , such as <e10> drug1 </e10> , fluconazole , itraconazole , and quinine , are likely to increase the clearance of <e20> drug2 </e20> .
+mechanism	<e11> drug1 </e11> has been reported to reduce the clearance of nonsteroidal _ anti - inflammatory _ drugs , some cyclosporine _ a , and the <e20> drug2 </e20> , causing a decrease in the half - life of these drugs .
+mechanism	coadministration with compounds that inhibit cyp3a4 ( eg , fluoxetine , <e10> drug1 </e10> , sertraline , sertraline _ hydrochloride ) resulted in a significant increase in <e20> drug2 </e20> plasma concentrations and a decrease in drug2 clearance .
+mechanism	drug1 : <e10> drug1 </e10> significantly reduced the metabolism of <e20> drug2 </e20> , a potent inhibitor of cyp3a , by approximately 70 % .
+mechanism	in addition , results suggest that <e10> drug1 </e10> and digoxin may have additive effects on hepatic metabolism of <e20> drug2 </e20> .
+mechanism	drug1 - and aluminum - containing antacids : drug1 - containing antacids , such as <e10> drug1 </e10> , aluminum and zinc containing antacids , may reduce the bioavailability of <e20> drug2 </e20> by affecting the rate of conjugation of the two components .
+mechanism	the elimination half - life of <e10> drug1 </e10> has been decreased by approximately 50 % when coadministered with <e20> drug2 </e20> .
+mechanism	however , the systemic administration of <e11> drug1 </e11> can inhibit the metabolism of the <e22> drug2 </e22> and increase the bioavailability of fluconazole and ciprofloxacin .
+mechanism	drugs which inhibit cyp3a4 ( eg , ketoconazole , itraconazole , nefazodone , <e10> drug1 </e10> , clarithromycin , ritonavir , indinavir , saquinavir , saquinavir , telithromycin , drug1 , indinavir , saquinavir , indinavir , saquinavir , itraconazole ) may increase plasma levels of <e20> drug2 </e20> .
+mechanism	h2 _ receptor _ antagonists : <e10> drug1 </e10> may decrease the absorption of some <e22> drug2 </e22> .
+mechanism	antacids : in rats , the elimination of a single dose of <e10> drug1 </e10> by the kidneys was reduced by approximately 50 % and <e20> drug2 </e20> by approximately 50 % .
+mechanism	a # ( 17 ) % reduction in the clearance of <e10> drug1 </e10> # mg / day was observed following concurrent administration of a # mg / day dose of <e20> drug2 </e20> # mg / day .
+mechanism	after the coadministration of <e10> drug1 </e10> # mg , an increase in cmax , auc , and t1 / 2 were observed , but not significant , for the following : <e20> drug2 </e20> , carbamazepine , phenobarbital , phenytoin , astemizole , primidone , triazolam , theophylline , valproic _ acid , and rifampin .
+mechanism	on the basis of in vitro and in vivo data , <e12> drug1 </e12> may have the potential to interfere with the renal excretion of <e20> drug2 </e20> .
+mechanism	another oral azole _ antifungal such as <e10> drug1 </e10> , miconazole , or rifampin can interfere with the metabolism of <e20> drug2 </e20> and may cause elevated serum levels .
+mechanism	in a placebo - controlled crossover study , <e10> drug1 </e10> tablets increased the rate of <e20> drug2 </e20> clearance by - 1 . 4 % and increased the drug2 toxicity dose by 33 % .
+mechanism	multivalent cation - containing products : <e10> drug1 </e10> may interfere with the absorption of multivalent cation - containing products such as <e20> drug2 </e20> , disulfiram , and barbiturates , causing the concentrations of these cations to decrease .
+mechanism	- drugs that inhibit cyp2c9 ( eg , ketoconazole , itraconazole , erythromycin , clarithromycin , ritonavir , <e10> drug1 </e10> , nefazodone , nelfinavir ) may increase plasma concentrations of <e20> drug2 </e20> and may require increases in drug2 doses to achieve an adequate response .
+mechanism	and <e11> drug1 </e11> can inhibit the metabolism of <e20> drug2 </e20> , resulting in a reduction in the absorption of both drugs .
+mechanism	the following are reported : drug1 : <e10> drug1 </e10> increased the clearance of <e20> drug2 </e20> by 23 % , and decreased its serum concentration by 28 % .
+mechanism	co - administration with <e10> drug1 </e10> decreased the clearance of <e20> drug2 </e20> by approximately 60 % and caused an approximately 5 % increase in drug2 auc .
+mechanism	tricyclic _ antidepressants ( amitriptyline , <e10> drug1 </e10> , nortriptyline ) : may increase <e20> drug2 </e20> plasma levels by prolonging the hepatic metabolism of drug2 .
+mechanism	diltiazem : in a pharmacokinetic study in healthy volunteers , <e10> drug1 </e10> caused a 62 % increase in the auc of <e20> drug2 </e20> , but a 38 % decrease in the cmax .
+mechanism	valproate : a dose of <e10> drug1 </e10> # mg / day for # days prior to dosing with <e20> drug2 </e20> # mg / day resulted in a 2 - to 4 - fold increase in drug2 clearance .
+mechanism	another oral azole _ antifungal , <e10> drug1 </e10> , can increase the plasma levels of <e20> drug2 </e20> by three - to fourfold .
+mechanism	<e10> drug1 </e10> may decrease the clearance of <e20> drug2 </e20> and may increase the clearance of vitamin _ k .
+mechanism	cimetidine - in a controlled study in healthy volunteers , a single oral dose of <e10> drug1 </e10> # mg was associated with a 27 % decrease in the area under the curve of <e20> drug2 </e20> .
+mechanism	co - medications that induce cyp3a4 activity , such as carbamazepine , <e10> drug1 </e10> , and certain other non - steroidal _ anti - inflammatory _ drugs , potentiate <e20> drug2 </e20> s metabolism .
+mechanism	the oral bioavailability of <e10> drug1 </e10> decreased by approximately 40 % when administered with <e20> drug2 </e20> , when the two medications were coadministered .
+mechanism	conversely , the <e12> drug1 </e12> ( alprazolam , diazepam , and alprazolam _ hydrochloride ) produce an increase in plasma concentrations of <e20> drug2 </e20> , which may be potentially pharmacologic in the presence of clinically significant drug2 levels .
+mechanism	oral contraceptives : <e10> drug1 </e10> inhibits the metabolism of oral <e20> drug2 </e20> .
+mechanism	in a study in healthy volunteers , a single dose of <e10> drug1 </e10> # mg increased the <e20> drug2 </e20> auc by 2 . 6 - fold and cmax by 17 - fold .
+mechanism	short - term pharmacokinetic studies in healthy volunteers demonstrated that <e10> drug1 </e10> decreased the plasma concentration of <e20> drug2 </e20> by approximately 40 % .
+mechanism	however , the systemic exposure of <e10> drug1 </e10> was reduced by approximately 30 % when administered with <e20> drug2 </e20> .
+mechanism	the plasma concentration of <e10> drug1 </e10> decreased by 23 % when administered with <e20> drug2 </e20> .
+mechanism	agents that induce cyp3a4 activity , such as <e10> drug1 </e10> , rifampin , phenytoin , and itraconazole , may increase <e20> drug2 </e20> plasma concentrations .
+mechanism	drugs that cause cyp3a4 activity ( eg , ketoconazole , itraconazole , <e10> drug1 </e10> , clarithromycin , nefazodone , drug2 , saquinavir , saquinavir / ceftazidime , telithromycin , troleandomycin ) may decrease plasma concentrations of <e20> drug2 </e20> .
+mechanism	multivalent cation - containing products : <e10> drug1 </e10> and similar products may inhibit the metabolism of some multivalent cations , such as lithium , <e20> drug2 </e20> , calcium , and drug2 sulfate .
+mechanism	plasma levels of <e10> drug1 </e10> have been shown to increase with the concomitant administration of <e20> drug2 </e20> ( a potent cyp3a4 inhibitor ) and oral anticoagulants .
+mechanism	<e11> drug1 </e11> has been shown to increase the pharmacokinetic profile of <e20> drug2 </e20> , resulting in a significant reduction of drug2 exposure .
+mechanism	pharmacokinetic studies have shown that <e10> drug1 </e10> markedly decreases <e20> drug2 </e20> plasma concentrations in patients who are on long - term drug2 therapy .
+mechanism	drugs that induce hepatic enzymes such as phenytoin , <e10> drug1 </e10> , phenytoin and carbamazepine may decrease the clearance of <e20> drug2 </e20> , resulting in increased plasma concentrations of this recommended dose of drug2 .
+mechanism	the cmax of <e10> drug1 </e10> was increased by # - fold when coadministered with <e20> drug2 </e20> .
+mechanism	metformin : in a double - blind study in healthy volunteers receiving oral <e10> drug1 </e10> alone , there was a significant decrease in the auc of <e20> drug2 </e20> .
+mechanism	ethosuximide : <e12> drug1 </e12> , especially drug2 , reduce the bioavailability of <e20> drug2 </e20> .
+mechanism	on the basis of pharmacokinetic data , <e10> drug1 </e10> was expected to increase the auc of <e20> drug2 </e20> .
+mechanism	in vitro data suggest that <e10> drug1 </e10> may inhibit the metabolism of <e20> drug2 </e20> .
+mechanism	drugs that cause hepatic enzyme inhibition ( e , g , , <e10> drug1 </e10> , amiodarone , triazolam ) may decrease plasma <e20> drug2 </e20> levels and thus increase the clearance of bromocriptine .
+mechanism	antibiotics : in vitro data indicate that coadministration of <e10> drug1 </e10> may decrease the plasma concentrations of other <e22> drug2 </e22> , resulting in decreased anticoagulant activity and increased toxicity .
+mechanism	for example , since it has been shown that the <e12> drug1 </e12> such as warfarin or its derivatives increase the clearance of <e20> drug2 </e20> , a ketoconazole _ preparation ( i , e , , the inactive metabolite of ketoconazole ) may have to be administered with drug2 .
+mechanism	valproate : <e10> drug1 </e10> has been reported to reduce the bioavailability of <e20> drug2 </e20> , leading to an increased plasma concentration .
+mechanism	cytochrome p - 450 inducers , such as <e10> drug1 </e10> , ketoconazole , pimozide , and indinavir , may potentiate the cyp3a4 - mediated metabolism of <e20> drug1 </e20> and increase plasma levels of drug1 .
+mechanism	drug1 and charcoal sulfonate : <e10> drug1 </e10> may inhibit the metabolism of <e20> drug2 </e20> .
+mechanism	metformin : in vitro data indicate that <e10> drug1 </e10> increases the bioavailability of <e20> drug2 </e20> .
+mechanism	antacids and kaolin : <e10> drug1 </e10> may decrease the absorption of <e20> drug2 </e20> or aluminum antacids , which are both ingredients in zidovudine , and kaolin , which may decrease the absorption of aluminum and drug2 antacids .
+mechanism	short - term pharmacokinetic studies in healthy volunteers ( n = 20 ) showed that a single dose of <e10> drug1 </e10> # mg increased auc of <e20> drug2 </e20> by 33 % and cmax by 25 % .
+mechanism	hydro drug2 : in vitro data suggest that <e11> drug1 </e11> may inhibit the metabolism of some nonsteroidal _ anti - inflammatory _ drugs and may increase the half - life of <e20> drug2 </e20> .
+mechanism	urinary alkalinizing agents ( <e10> drug1 </e10> , tetracycline , sulfadoxine _ hcl , etc , ) may reduce the bioavailability of <e20> drug2 </e20> by a mechanism involving acidification of urinary drug2 and reduced urinary excretion of the metabolite .
+mechanism	previous studies have demonstrated that <e10> drug1 </e10> interfere with <e20> drug2 </e20> clearance , and a decrease in serum amphetamine levels has been reported .
+mechanism	drug1 : <e10> drug1 </e10> may reduce the bioavailability of oral <e20> drug2 </e20> .
+mechanism	substances that are actively secreted in the stomach , such as <e10> drug1 </e10> , may reduce the clearance of <e20> drug2 </e20> .
+mechanism	non - nucleoside _ reverse _ transcriptase _ inhibitors ( nnrtis ) such as <e10> drug1 </e10> and drug2 have been shown to inhibit <e20> drug2 </e20> s metabolism .
+mechanism	cyclosporine : elevated plasma concentrations of <e10> drug1 </e10> are reported with concomitant administration of <e20> drug2 </e20> , clarithromycin , drug1 dipropion , and azathioprine .
+mechanism	barbiturates , <e10> drug1 </e10> , carbamazepine , and fluconazole may decrease the metabolism of <e20> drug2 </e20> , resulting in elevated serum levels of drug2 and its derivatives .
+mechanism	other potentially important drug interactions : antacids : <e10> drug1 </e10> increased the metabolism of <e20> drug2 </e20> by approximately 50 % .
+mechanism	rifampicin : in a study in healthy volunteers , <e10> drug1 </e10> increased the plasma concentrations of <e20> drug2 </e20> by approximately 50 % and the ph of plasma by approximately 25 % .
+mechanism	metoclopramide : bioavailability of <e10> drug1 </e10> decreased approximately 50 % when administered concomitantly with <e20> drug2 </e20> .
+mechanism	digoxin : <e10> drug1 </e10> tablets may decrease the bioavailability of <e20> drug2 </e20> , leading to increased serum and urine levels .
+mechanism	cyclosporin : reports suggest that <e10> drug1 </e10> may decrease the metabolism of <e20> drug2 </e20> by decreasing its renal excretion .
+mechanism	plasma exposure of <e10> drug1 </e10> was enhanced by <e20> drug2 </e20> , as was drug2 elimination following drug2 administration .
+mechanism	<e10> drug1 </e10> decreased the metabolism of <e20> drug2 </e20> , resulting in increased drug2 levels .
+mechanism	monoamine _ oxidase _ inhibitors : coadministration of <e11> drug1 </e11> with maoi ( e , g , , <e20> drug2 </e20> , sertraline , fluvoxamine , paroxetine , venlafaxine ) increases the auc and cmax of drug1 by 38 % and 18 % , respectively .
+mechanism	drug1 : <e10> drug1 </e10> may increase the renal clearance of <e20> drug2 </e20> , resulting in lower plasma concentrations of the latter .
+mechanism	antacids or h _ 2 _ receptor _ antagonists : <e10> drug1 </e10> may decrease the absorption of antacids or h _ 2 _ receptor _ antagonists ( e , g , , phenytoin , <e20> drug2 </e20> ) or potentiate the activity of these agents .
+mechanism	cimetidine : a study in normal volunteers showed that a single dose of <e10> drug1 </e10> ( 40 mg ) significantly reduced <e20> drug2 </e20> auc by a mean of 46 % ( range : 10 % to 54 % ) .
+mechanism	in well - controlled patients , <e10> drug1 </e10> resulted in a 17 % decrease in <e20> drug2 </e20> plasma concentrations .
+mechanism	mao _ inhibitors : maoi _ antidepressants such as <e10> drug1 </e10> may decrease the clearance of <e20> drug2 </e20> .
+mechanism	multivalent cation - containing products : combinations of <e10> drug1 </e10> and <e20> drug2 </e20> may increase the clearance of drug2 by about 10 % .
+mechanism	in two clinical studies , it was shown that coadministration of <e10> drug1 </e10> with <e20> drug2 </e20> for up to # weeks caused a 3 - fold increase in drug1 exposure .
+mechanism	naproxen : the hepatic metabolism of <e10> drug1 </e10> has been shown to be approximately halved when it is administered concomitantly with <e20> drug2 </e20> .
+mechanism	drug1 : <e10> drug1 </e10> was found to decrease the exposure of <e20> drug2 </e20> , thus preventing its toxicity in rat testis .
+mechanism	carbamazepine : coadministration of <e10> drug1 </e10> with <e20> drug2 </e20> resulted in a 28 % increase in the clearance of drug1 .
+mechanism	in a single - dose study in healthy volunteers , the auc of <e10> drug1 </e10> was decreased by 39 % when coadministered with <e20> drug2 </e20> .
+mechanism	ketoconazole : coadministration of <e10> drug1 </e10> and <e20> drug2 </e20> increased the cmax of drug2 by about 30 % and the auc of drug2 by about 15 % .
+mechanism	drug1 : <e10> drug1 </e10> can inhibit the metabolism of <e20> drug2 </e20> , leading to a decrease in its absorption .
+mechanism	- drugs that are cyp3a4 inhibitors ( eg , drug2 , itraconazole , nefazodone , troleandomycin , clarithromycin , ritonavir , indinavir , <e10> drug1 </e10> , drug1 , indinavir , ritonavir , drug1 , telithromycin , troleandomycin , troleandomycin , itraconazole , itraconazole ) may decrease plasma concentrations of <e20> drug2 </e20> , resulting in increased plasma levels of drug2 and the potential for drug interactions .
+mechanism	quinidine : immediate release capsules : in a study in healthy volunteers , the clinical studies on <e10> drug1 </e10> resulted in a 4 - to 5 - fold increase in the area under the plasma concentration - time curve for <e20> drug2 </e20> when compared to drug1 tablets .
+mechanism	discontinuation of cimetidine ( <e10> drug1 </e10> ) resulted in a significant increase in the clearance of <e20> drug2 </e20> .
+mechanism	cytochrome p - 450 inducers , such as <e10> drug1 </e10> , diflunisal , flutamide , carbamazepine , or phenytoin , may increase the plasma concentrations of <e20> drug2 </e20> , which is an inhibitor of cytochrome p450 inducers .
+mechanism	although the mechanism is unknown , <e10> drug1 </e10> may increase the plasma concentrations of <e20> drug2 </e20> .
+mechanism	an intravenous injection of <e10> drug1 </e10> # mg / kg caused a dose - related increase in plasma levels of <e20> drug2 </e20> , and conversely a decrease in plasma levels of drug2 .
+mechanism	the absorption of <e10> drug1 </e10> was reduced by approximately 38 % and 37 % in healthy volunteers treated with <e20> drug2 </e20> and coadministered with oral drug1 , respectively .
+mechanism	warfarin : when <e10> drug1 </e10> was coadministered with <e20> drug2 </e20> , the drug2 plasma concentration was increased by 4 - fold and the auc was increased by 10 - fold .
+mechanism	ampicillin : in a single dose of <e10> drug1 </e10> # mg to # mg , <e20> drug2 </e20> reduced the cmax of drug2 by 38 % and the auc by 38 % .
+mechanism	anticonvulsants : in vitro studies have shown that the <e12> drug1 </e12> such as phenobarbital , phenytoin , carbamazepine , and phenytoin inhibit the metabolism of <e20> drug2 </e20> by several major metabolism enzymes , resulting in reduced concentrations of drug2 and its active metabolite , cimetidine .
+mechanism	while no in vitro studies have shown a significant decrease in the clearance of <e10> drug1 </e10> when administered concurrently with <e20> drug2 </e20> , it is anticipated that the clearance of drug1 may be increased when used concomitantly with drug2 .
+mechanism	<e10> drug1 </e10> may interfere with <e20> drug2 </e20> metabolism , resulting in a higher plasma drug2 level .
+mechanism	these alterations in hepatic metabolism of <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> .
+mechanism	binding to serum proteins : <e10> drug1 </e10> reduced the serum concentrations of digoxin and <e20> drug2 </e20> , but not that of digoxin and warfarin .
+mechanism	the steady state plasma concentration of <e10> drug1 </e10> was lower when administered with <e20> drug2 </e20> than when administered with placebo or nafazodone .
+mechanism	antacids and sucralfate : <e10> drug1 </e10> and aluminum may interfere with absorption of <e20> drug2 </e20> .
+mechanism	limited clinical experience has shown that <e10> drug1 </e10> # mg once daily significantly increased the clearance of <e20> drug2 </e20> , causing a 30 % increase in the mean cmax .
+mechanism	the absorption of <e10> drug1 </e10> was increased by approximately 11 % when coadministered with <e20> drug2 </e20> ( approximately - 10 % for drug2 alone ) .
+mechanism	although the mechanism is not known , <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> .
+mechanism	corticosteroids : dexamethasone ( <e10> drug1 </e10> ) has been reported to increase the clearance of <e20> drug2 </e20> by approximately 4 - fold and increase the clearance of drug2 by approximately 8 - fold .
+mechanism	although the mechanism is unknown , other <e12> drug1 </e12> may inhibit the absorption of <e20> drug2 </e20> , thus increasing plasma levels .
+mechanism	uricosuric _ agents : since <e10> drug1 </e10> has been reported to increase the concentrations of <e20> drug2 </e20> and warfarin , the possibility exists that drug2 may increase the metabolism of either of these drugs .
+mechanism	drug1 : <e10> drug1 </e10> significantly decreased the plasma levels of <e20> drug2 </e20> , suggesting that the drug2 , carbamazepine , and drug2 systems are in competition for the same substrate .
+mechanism	tolbutamide : drug1 : <e10> drug1 </e10> increases the clearance of <e20> drug2 </e20> .
+mechanism	in renal and cardiovascular failure , <e10> drug1 </e10> has been reported to increase renal clearance of <e20> drug2 </e20> and its metabolism to the same end - products .
+mechanism	antacids : in a single dose of <e10> drug1 </e10> # mg , the mean cmax of <e20> drug2 </e20> was # % higher than after a single dose of # mg of drug1 .
+mechanism	drug1 : <e10> drug1 </e10> may decrease renal clearance of <e20> drug2 </e20> , may decrease the pharmacokinetics of drug2 and its derivatives , and increase the exposure of drug2 to the kidneys .
+mechanism	drug1 : <e10> drug1 </e10> increased the clearance of <e20> drug2 </e20> and caused a significant increase in drug2 - hg clearance .
+mechanism	products containing calcium _ antagonists , such as <e10> drug1 </e10> , may increase the absorption of <e20> drug2 </e20> , resulting in increased plasma drug2 concentrations .
+mechanism	total body clearance of <e10> drug1 </e10> was reduced by about 20 % when coadministered with <e20> drug2 </e20> .
+mechanism	in vitro , <e10> drug1 </e10> inhibited the metabolism of <e20> drug2 </e20> .
+mechanism	fluconazole : concomitant administration of <e10> drug1 </e10> and <e20> drug2 </e20> ( a potent inhibitor of cyp2d6 ) produced a mean increase in drug1 exposure of 17 % , compared to a decrease of 10 % in drug1 exposure with either drug alone .
+mechanism	withdrawal of <e10> drug1 </e10> at doses of # mg / day and # mg / day for # days produced a statistically significant decrease in auc of <e20> drug2 </e20> from # to # . 5 ( t = - 0 . 70 , p = . 01 ) .
+mechanism	drug1 : <e10> drug1 </e10> has been reported to increase <e20> drug2 </e20> clearance by lowering its hepatic uptake and increasing its systemic exposure .
+mechanism	erythromycin : in a single - dose , randomized study , <e10> drug1 </e10> at a dose of # mg decreased plasma levels of <e20> drug2 </e20> by 22 % .
+mechanism	quinolone _ antibiotic s : videx ( <e10> drug1 </e10> ) - increases mic of <e20> drug1 </e20> and increases the rate of elimination .
+mechanism	digoxin : in vitro data indicate that <e10> drug1 </e10> may enhance the metabolism of <e20> drug2 </e20> , leading to a prolongation of the blood - sugar concentrations .
+mechanism	coadministration with <e10> drug1 </e10> markedly decreased the clearance of <e20> drug2 </e20> and caused a 4 - fold increase in drug2 serum levels .
+mechanism	pharmacokinetic data from the inspire ( isupress - inhibitors and resins with renoprotective activity ) study , a randomized , double - blind , placebo - controlled study , indicated that <e10> drug1 </e10> significantly decreased the clearance of <e20> drug2 </e20> by about 50 % at doses of # mg / day .
+mechanism	plasma concentrations of <e10> drug1 </e10> may be increased by <e20> drug2 </e20> or other cyp3a4 inhibitors .
+mechanism	in a study in healthy volunteers , concomitant administration of <e10> drug1 </e10> # mg twice daily with <e20> drug2 </e20> # mg twice daily for # days resulted in a 44 % increase in drug2 plasma concentrations ( 3 days : mg / ml , mean , p = 0 . 006 ; 7 days : mg / ml , mean , p = 0 . 006 ) .
+mechanism	multivalent cation - containing products : a significant increase in serum <e10> drug1 </e10> concentrations may occur with the concomitant use of multivalent cation - containing products containing <e20> drug2 </e20> , aluminum , and calcium .
+mechanism	drug1 : <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> and decrease the bioavailability of cetirizine and metformin .
+mechanism	protein binding in vitro studies have shown that <e10> drug1 </e10> reduces the plasma concentrations of <e20> drug2 </e20> by approximately 38 % .
+mechanism	drug1 : <e10> drug1 </e10> may inhibit the metabolism of <e20> drug2 </e20> , resulting in a reduction in the elimination of both drugs .
+mechanism	valproate : <e10> drug1 </e10> reduced the auc of <e20> drug2 </e20> by 49 % ( from # . 80 to # . 46 microg x min ( - 1 ) x mg ( - 1 ) ) and the cmax from # to # microg x min ( - 1 ) x mg ( - 1 ) ) .
+mechanism	in vitro studies indicate that <e10> drug1 </e10> causes a significant increase in the bioavailability of <e20> drug2 </e20> , an inhibitor of hepatic metabolism of drug2 .
+mechanism	although specific studies have not been performed , it has been postulated that the metabolism of <e10> drug1 </e10> may be enhanced by coadministration of oral <e20> drug2 </e20> , which would increase the clearance of drug1 .
+mechanism	use in conjunction with other antimicrobial _ drugs : the extent to which <e12> drug1 </e12> may interfere with the pharmacokinetics of other antimicrobial _ drugs ( eg , <e20> drug2 </e20> , levofloxacin , drug2 sintamethonium , norfloxacin , cefixime , ceftazidime , erythromycin , clarithromycin , diflunisal , astemizole , doriconazole , indinavir , itraconazole , nefazodone , nelfinavir , ritonavir , saquinavir , telithromycin , troleandomycin , troleandomycin s , theophylline , and zidovudine ) is unknown .
+mechanism	colestipol : plasma <e10> drug1 </e10> levels increased significantly with <e20> drug2 </e20> , but not with cimetidine .
+mechanism	drug1 : <e10> drug1 </e10> increases the bioavailability of <e20> drug2 </e20> and its derivatives .
+mechanism	<e10> drug1 </e10> may reduce the metabolism of <e20> drug2 </e20> , resulting in a decrease in the bioavailability of drug2 .
+mechanism	<e11> drug1 </e11> has been reported to increase the clearance of a <e22> drug2 </e22> by inhibiting renal tubular secretion .
+mechanism	however , the peak serum levels of <e10> drug1 </e10> are approximately 50 % greater when administered concomitantly with <e20> drug2 </e20> than when administered concomitantly with drug2 alone .
+mechanism	diltiazem : in vitro metabolism studies demonstrated that <e10> drug1 </e10> was displaced from the hepatic metabolism by <e20> drug2 </e20> .
+mechanism	in a study in normal volunteers , <e10> drug1 </e10> ( 5 mg daily ) decreased <e20> drug2 </e20> by 43 % .
+mechanism	ampicillin : in a study in healthy volunteers , a single oral dose of <e10> drug1 </e10> # mg decreased the auc and cmax of <e20> drug2 </e20> by 46 % and 15 % , respectively .
+mechanism	however , other published studies suggest that <e10> drug1 </e10> can decrease the absorption of <e20> drug2 </e20> .
+mechanism	drug1 : <e10> drug1 </e10> has been reported to decrease the hepatic clearance of <e20> drug2 </e20> and increase the clearance of vitamin _ d .
+mechanism	limited data in healthy subjects suggest that <e10> drug1 </e10> may increase the bioavailability of <e20> drug2 </e20> by decreasing the intestinal absorption of drug1 .
+mechanism	cholestyramine - concomitant intake of <e10> drug1 </e10> and <e20> drug2 </e20> resulted in a 17 % decrease in cmax and auc of drug2 .
+mechanism	multivalent cation - containing products : multivalent cation - containing ( eg , phenytoin , <e10> drug1 </e10> ) and possibly most other nonsteroidal _ anti - inflammatory _ drugs ( eg , rifampin , theophylline , fluoxetine , phenobarbital , astemizole , and cimetidine ) may reduce the bioavailability of <e20> drug2 </e20> and therefore , the recommended daily dose of drug2 should be increased by approximately 25 % .
+mechanism	carbamazepine : in vitro <e10> drug1 </e10> has been shown to increase <e20> drug2 </e20> elimination by approximately 10 % and decrease drug2 elimination by approximately 3 % .
+mechanism	the following are not considered to be likely to be potent inhibitors of the metabolism of <e11> drug1 </e11> in humans : <e20> drug2 </e20> , diltiazem , ritonavir , saquinavir , drug2 , itraconazole , itraconazole ( medium ) , itraconazole ( high ) .
+mechanism	cytochrome p - 450 inducers , such as phenytoin , <e10> drug1 </e10> , and cimetidine , may reduce the plasma concentrations of <e20> drug2 </e20> and increase the clearance of drug2 .
+mechanism	agents that are cyp3a4 inhibitors ( e , g , , ketoconazole , itraconazole , ritonavir , indinavir , saquinavir , nelfinavir , erythromycin , clarithromycin , <e10> drug1 </e10> , nefazodone , didanosine , astemizole , terfenadine ) are inhibitors of cyp3a4 and may increase the plasma concentrations of <e20> drug2 </e20> .
+mechanism	multivalent cation - containing products : <e10> drug1 </e10> , for example , may increase the serum concentration of <e20> drug2 </e20> and warfarin .
+mechanism	a number of reports have shown that <e10> drug1 </e10> can decrease the clearance of <e20> drug2 </e20> .
+mechanism	selegiline : <e12> drug1 </e12> , including the benzodiazepines , may increase the metabolism of <e22> drug2 </e22> , resulting in a decreased blood level of these agents .
+mechanism	drug1 : <e10> drug1 </e10> may enhance the metabolism of <e20> drug2 </e20> , causing estrogen levels to increase .
+mechanism	corticosteroids : dexamethasone ( <e10> drug1 </e10> ) , fluconazole , and coumarin significantly inhibit the <e20> drug2 </e20> clearance , which may lead to increased toxicity in these patients .
+mechanism	phenobarbital : it is possible that <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> .
+mechanism	pharmacokinetic studies have shown that coadministration of <e10> drug1 </e10> with a <e22> drug2 </e22> , a phenytoin _ anticonvulsant , or an anticonvulsant , may significantly reduce the oral bioavailability of drug1 .
+mechanism	because drug1 is a methyltransferase , the plasma levels of <e10> drug1 </e10> may be decreased by the concurrent use of other agents that inhibit methylation ( eg , <e20> drug2 </e20> , furosemide , phenytoin ) .
+mechanism	methenamine therapy urinary clearance of <e10> drug1 </e10> was decreased by a mean of 24 % and 25 % following coadministration of <e20> drug2 </e20> and an oral potent cyp3a4 inhibitor , erythromycin .
+mechanism	protease _ inhibitors : <e10> drug1 </e10> may decrease the metabolism of a <e22> drug2 </e22> and therefore reduce its effectiveness .
+mechanism	cytochrome p - 450 inducers , including <e10> drug1 </e10> , may increase the plasma concentration of <e20> drug2 </e20> .
+mechanism	ampicillin : in a clinical study , <e10> drug1 </e10> significantly decreased the clearance of <e20> drug2 </e20> from 0 . 83 % # min to 0 . 52 % # min , and the elimination half - life from 17 . 6 hours to 13 . 2 hours .
+mechanism	because <e12> drug1 </e12> can reduce the absorption of <e22> drug2 </e22> , co - administration of a high - fat diet with drug2 supplements containing multivitamins or other supplements containing multivitamins or other supplements containing calcium , iron , or zinc may increase the risk of drug2 deficiency .
+mechanism	phenobarbital : it has been reported that <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> .
+mechanism	phenobarbital : <e12> drug1 </e12> may decrease the clearance of <e20> drug2 </e20> , leading to a higher serum concentration and / or a higher peak serum concentration of drug2 .
+mechanism	human pharmacokinetics data indicate that <e10> drug1 </e10> can decrease the clearance of <e20> drug2 </e20> by approximately 11 % and the auc by approximately 10 % .
+mechanism	the absorption of <e10> drug1 </e10> is significantly decreased when coadministered with <e20> drug2 </e20> .
+mechanism	phenytoin / drug1 : <e10> drug1 </e10> increases the clearance of <e20> drug2 </e20> , resulting in lower serum levels and a longer half - life of drug2 .
+mechanism	drug1 : <e10> drug1 </e10> has been reported to decrease the clearance of <e20> drug2 </e20> and have an additive effect with caffeine and other indomethacinophiles .
+mechanism	in # other patients , coadministration of <e10> drug1 </e10> with <e20> drug2 </e20> increased the clearance of drug2 by approximately 20 % to 25 % .
+mechanism	antacids : in vitro studies have shown that <e10> drug1 </e10> and zinc can inhibit the absorption of <e20> drug2 </e20> .
+mechanism	the steady state concentrations of <e10> drug1 </e10> and its major metabolite , rifabutin , were approximately 6 - to 8 - fold higher in patients on concurrent <e20> drug2 </e20> and were similar to the levels reported with drug2 alone .
+mechanism	agents that are cyp3a4 inhibitors ( such as drug2 , <e10> drug1 </e10> , nefazodone , troleandomycin , clarithromycin , clarithromycin sulfate , nelfinavir , ritonavir , saquinavir , telithromycin , indinavir , saquinavir , indinavir , saquinavir , indinavir , saquinavir , indinavir , saquinavir , indinavir , drug1 ) have been shown to increase plasma levels of <e20> drug2 </e20> and decrease the efficacy of drug2 in vitro .
+mechanism	praziquantel : in vitro studies in normal and malignant human cells demonstrated that <e10> drug1 </e10> may inhibit <e20> drug2 </e20> metabolism by a mechanism involving cytochrome p450 3a4 inhibition .
+mechanism	other <e12> drug1 </e12> have been reported to increase the clearance of oral <e20> drug2 </e20> and decrease the effect of drug2 on antihypertensive _ drugs .
+mechanism	phenobarbital : it has been suggested that <e10> drug1 </e10> may increase the clearance of oral <e20> drug2 </e20> .
+mechanism	drug1 : in a randomized , controlled study , <e10> drug1 </e10> caused a dose - dependent increase in plasma levels of <e20> drug2 </e20> and a decrease in the drug2 excretion rate in normal volunteers .
+mechanism	prednisolone : <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> .
+mechanism	in a study of healthy volunteers ( n = 6 ) , <e10> drug1 </e10> decreased the uptake of <e20> drug2 </e20> ( 0 . 1 microm ) by 18 % and 25 % ( p = 0 . 004 ) after single and multiple dosing , respectively .
+mechanism	<e10> drug1 </e10> inhibits the metabolism of <e20> drug2 </e20> , an active metabolite of sildenafil .
+mechanism	multivalent cation - containing products : caffeine - containing and multivalent cation - containing products ( e , g , , <e10> drug1 </e10> and acitretin ) may increase the bioavailability of <e20> drug2 </e20> .
+mechanism	antibiotics : in a placebo - controlled study , # mg / kg of <e10> drug1 </e10> # hours before meal decreased mean protein content by # % and <e20> drug2 </e20> by # % .
+mechanism	although <e10> drug1 </e10> may decrease the clearance of <e20> drug2 </e20> , the effect is not as strong as with carbamazepine or other nonsteroidal _ anti - inflammatory _ drugs .
+mechanism	<e10> drug1 </e10> and related compounds increase the clearance of acetaminophen and other <e22> drug2 </e22> , and the metabolism of these drugs by the cyp2d6 isoenzyme increases the half - life of some drugs .
+mechanism	an intravenous injection of <e10> drug1 </e10> ( 4 mg / kg ) caused a 62 % increase in <e20> drug2 </e20> plasma concentrations .
+mechanism	ibuprofen - <e10> drug1 </e10> # mg in one hour reduced <e20> drug2 </e20> # mg and acetazolamide plasma concentrations by 44 % and 27 % , respectively .
+mechanism	oral <e10> drug1 </e10> may increase the plasma concentrations of <e20> drug2 </e20> and may decrease the absorption of sulfonamides , and high concentrations of oral drug1 may decrease the absorption of penicillins , azoles , sulfonamides , and carbamazepine .
+mechanism	use in conjunction with other drug1 <e12> drug1 </e12> may interfere with the absorption of <e20> drug2 </e20> , causing increases in drug2 serum concentrations .
+mechanism	phenytoin / drug1 : <e10> drug1 </e10> prolongs the elimination of <e20> drug2 </e20> , which is indicated for the treatment of cancer .
+mechanism	limited data in normal volunteers suggest that <e10> drug1 </e10> may decrease the absorption of carbamazepine , <e20> drug2 </e20> , and propranolol .
+mechanism	in two clinical studies , <e10> drug1 </e10> markedly reduced the bioavailability of <e20> drug2 </e20> , a potent inducer of apoptosis .
+mechanism	acetaminophen : in a study in normal volunteers , <e10> drug1 </e10> decreased the clearance of <e20> drug2 </e20> by ~ 33 % .
+mechanism	also , concomitant administration of <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> and its metabolites , resulting in a diminished pharmacologic effect .
+mechanism	morphine : a single administration of <e10> drug1 </e10> at # mg / kg increased <e20> drug1 </e20> plasma levels by approximately 33 % while decreasing plasma levels of drug1 .
+mechanism	in em individuals , the <e10> drug1 </e10> elimination half - life increased from approximately # minutes to # minutes with coadministration of <e20> drug2 </e20> .
+mechanism	anticonvulsants ( drug2 , felbamate , phenobarbital , phenytoin ) : when coadministered with <e10> drug1 </e10> , <e20> drug2 </e20> increased by # % , and felbamate increased by # % plasma concentrations .
+mechanism	lithium : in rats , <e10> drug1 </e10> - containing preparations ( eg , tablets , oatmeal , etc , ) have been reported to decrease the serum levels of <e20> drug2 </e20> .
+mechanism	hepatic enzyme inducers , inducers , or cyclosporine : these agents increase hepatic enzymes ( e , g , , aminoglycosides , tetracyclines , rifampin , <e10> drug1 </e10> , bromocriptine ) and may therefore increase the clearance of <e20> drug2 </e20> .
+mechanism	dicumarol : it has been reported that <e10> drug1 </e10> may inhibit <e20> drug2 </e20> clearance , and therefore , it is recommended that drug2 be administered with low plasma levels to achieve peak plasma levels .
+mechanism	co - administration of <e10> drug1 </e10> at a dose of # mg / kg was associated with a decrease in the concentrations of <e20> drug2 </e20> and its active metabolite , butyrophenones , as well as the norethindrone a metabolite in # , # , and # mg / kg body weight groups , respectively .
+mechanism	plasma concentrations of <e10> drug1 </e10> were increased by approximately 4 - fold when coadministered with <e20> drug2 </e20> or ciprofloxacin , two common oral antibiotics , but not when coadministered with clarithromycin or minocycline .
+mechanism	antidepressants : in addition to normalizing prothrombin time , <e10> drug1 </e10> may also be expected to decrease the concentrations of <e20> drug2 </e20> and its derivatives .
+mechanism	treatment with <e11> drug1 </e11> resulted in a 60 % increase in serum <e20> drug2 </e20> levels , which may account for the clinical improvement .
+mechanism	for example , since <e10> drug1 </e10> is known to inhibit the metabolism of <e20> drug2 </e20> , a drug interaction could occur for which the two drugs have the same pharmacologic effect .
+mechanism	protease _ inhibitors : in some patients , the administration of <e11> drug1 </e11> # mg daily for # days followed by a # - day interval of # days of <e20> drug2 </e20> resulted in a significant ( p = 0 . 02 ) increase in cmax and auc of drug2 .
+mechanism	drug1 : <e10> drug1 </e10> may inhibit <e20> drug2 </e20> metabolism , leading to increased serum levels of theophylline and an increase in the chance of renal excretion .
+mechanism	concomitant administration of <e10> drug1 </e10> may potentiate the extent of clearance of <e20> drug2 </e20> and other potentially renal tubular toxins .
+mechanism	<e10> drug1 </e10> inhibited the absorption of <e20> drug2 </e20> , resulting in a decrease in the auc of drug2 by approx . 50 % .
+mechanism	dicumarol : it has been reported that <e10> drug1 </e10> can reduce the plasma concentrations of <e20> drug2 </e20> and , thus , the effect of drug2 .
+mechanism	drug1 : <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> , resulting in a prolongation of its half - life .
+mechanism	warfarin : quinolones , such as <e10> drug1 </e10> , have been reported to increase the plasma levels of <e20> drug2 </e20> and therefore inhibit its metabolism .
+mechanism	however , a crossover study in healthy subjects ( n = 8 ) showed that the auc of <e10> drug1 </e10> was increased significantly by a 50 % reduction of <e20> drug2 </e20> at # and # mg / day .
+mechanism	phenytoin : in a single case of a patient with elevated <e10> drug1 </e10> plasma levels due to a pharmacokinetic interaction with <e20> drug2 </e20> , a decrease in drug2 plasma levels and an increase in tetracycline plasma levels were observed .
+mechanism	use with allopurinol : <e10> drug1 </e10> may inhibit the absorption of <e20> drug2 </e20> and may result in lower serum drug2 concentrations .
+mechanism	valproate : a study in normal volunteers suggests that <e10> drug1 </e10> may increase <e20> drug2 </e20> clearance .
+mechanism	acidifying _ agents : gastrointestinal _ acidifying _ agents ( cephalosporins , <e10> drug1 </e10> , tetracycline , bacitracin , sulfonamides ) may decrease the clearance of <e20> drug2 </e20> and increase the serum levels of drug2 .
+mechanism	therefore , it is possible that <e10> drug1 </e10> may interfere with <e20> drug2 </e20> metabolism , thus reducing drug2 concentrations in the blood and leading to a higher drug2 toxicity .
+mechanism	drugs demonstrated to be increases in heparinized serum in a tricyclic _ antidepressant strain : there have been reports of increased serum concentrations of <e10> drug1 </e10> in a tricyclic _ antidepressant ( tca ) strain when it was coadministered with cimetidine , fluoxetine , and <e20> drug2 </e20> .
+mechanism	<e10> drug1 </e10> may increase plasma levels of <e20> drug2 </e20> , resulting in lower blood levels .
+mechanism	sulindac : the <e12> drug1 </e12> may decrease the clearance of <e20> drug2 </e20> .
+mechanism	oral <e10> drug1 </e10> and sulfonamides interfere with the metabolism of <e20> drug2 </e20> , resulting in elevated serum levels of drug2 .
+mechanism	drug1 : immediate release capsules : <e10> drug1 </e10> tablets are reported to inhibit the metabolism of <e20> drug2 </e20> .
+mechanism	agents that are predominantly covalent in nature , such as cholestyramine , forsteroids , and <e10> drug1 </e10> , may result in decreased levels of <e20> drug2 </e20> .
+mechanism	cyclosporine , digoxin , methotrexate and aminoglycosides : concomitant administration of <e10> drug1 </e10> with the following drugs may reduce the absorption of <e20> drug2 </e20> , cyclosporine , and aminoglycosides : acetaminophen , diazepam , fluoxetine , fluvoxamine , paroxetine , sertraline , theophylline , triazolam , theophylline _ hcl
+mechanism	benzodiazepines : combination <e12> drug1 </e12> may increase the clearance of <e20> drug2 </e20> .
+mechanism	metoprolol - administration of <e11> drug1 </e11> significantly increased the plasma concentrations of <e20> drug2 </e20> by approximately 5 - fold .
+mechanism	based on total plasma drug levels , <e10> drug1 </e10> was inversely correlated with plasma levels of all <e22> drug2 </e22> s .
+mechanism	protease _ inhibitors : in studies in normal volunteers , <e10> drug1 </e10> decreased the clearance of <e20> drug2 </e20> by about 50 % .
+mechanism	products containing drug2 , aluminum , or iron containing <e10> drug1 </e10> may cause excessive serum <e20> drug2 </e20> concentrations and are therefore not recommended for the prevention of hypercalcemia in patients undergoing renal dialysis .
+mechanism	in vitro studies have shown that <e10> drug1 </e10> inhibited <e20> drug2 </e20> by 25 % in vitro .
+mechanism	oral contraceptives : <e10> drug1 </e10> has been shown to decrease the bioavailability of <e20> drug2 </e20> in some studies and therefore , may decrease the effectiveness of oral contraceptives ( oral contraceptives or progestins ) by interfering with estrogen metabolism .
+mechanism	drugs that cause hepatic enzyme release or inhibit enzyme activity of <e11> drug1 </e11> may increase the clearance of <e20> drug2 </e20> .
+mechanism	in vitro studies indicate that <e10> drug1 </e10> ( 4 microm ) reduced the plasma concentrations of <e20> drug1 </e20> by 50 % and that a similar reduction in auc and cmax of drug1 would occur in plasma given concurrently with a non - steroidal _ anti - inflammatory _ drug .
+mechanism	other potentially important drug interactions : ethinyl _ estradiol : <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> .
+mechanism	substances that are weak inhibitors of cyp3a4 ( e , g , , fluconazole , itraconazole , rifampin , ketoconazole , itraconazole _ hydrochloride , erythromycin , clarithromycin , <e10> drug1 </e10> ) may increase plasma concentrations of <e20> drug2 </e20> .
+mechanism	concomitant use of <e10> drug1 </e10> or metoclopramide may result in increased concentrations of <e20> drug2 </e20> , an active metabolite of drug1 .
+mechanism	agents with increased anticoagulation effect : concomitant administration of <e10> drug1 </e10> or its derivatives with <e20> drug2 </e20> , drug1 , rifabutin , or dasatinib resulted in a significant increase in mean auc and cmax for drug1 ( 2 . 6 - fold and 3 . 2 - fold , respectively ) and its derivatives .
+mechanism	the elimination half - life of <e10> drug1 </e10> is increased by <e20> drug2 </e20> and its active metabolite ( drug1 c ) .
+mechanism	pre - treatment with the <e12> drug1 </e12> ( quinidine , astemizole , amitriptyline ) may decrease the metabolism of <e20> drug2 </e20> , and therefore increase plasma drug2 levels .
+mechanism	quinidine : immediate release tablets containing <e10> drug1 </e10> may temporarily increase the plasma concentration of <e20> drug2 </e20> .
+mechanism	amitriptyline : concurrent administration of <e11> drug1 </e11> and <e20> drug2 </e20> was found to increase mean auc of drug2 by a mean of 6 % .
+mechanism	drug1 : <e10> drug1 </e10> may inhibit the metabolism of <e20> drug2 </e20> and may prolong the half - life of drug2 .
+mechanism	in a placebo - controlled crossover study in healthy subjects , <e10> drug1 </e10> # mg increased the cmax by 26 % ( p = . 01 ) and auc by 17 % ( p = . 004 ) when coadministered with 50 mg <e20> drug2 </e20> .
+mechanism	in a study in healthy volunteers , <e10> drug1 </e10> # mg once daily significantly decreased the exposure to <e20> drug2 </e20> ( furosemide ) , the active metabolite of drug2 , by approximately 50 % .
+mechanism	warfarin : co - administration of <e10> drug1 </e10> and <e20> drug2 </e20> decreased the auc for drug1 by 40 % .
+mechanism	drug1 : immediate release tablets <e10> drug1 </e10> tablets , like other nonsteroidal _ anti - inflammatory _ drugs , increase plasma concentrations of <e20> drug2 </e20> and its metabolite , thus decreasing its absorption .
+mechanism	drug1 : <e10> drug1 </e10> was shown to inhibit the metabolism of <e20> drug2 </e20> by reducing the synthesis of the primary amphetamine metabolite amphetamine in rat brain and liver .
+mechanism	carbamazepine : coadministration of <e10> drug1 </e10> ( 20 mg twice daily ) and <e20> drug2 </e20> ( 1 mg twice daily ) resulted in a 5 - to 10 - fold increase in the drug2 clearance and a 35 % increase in drug2 serum concentration , respectively .
+mechanism	agents that are highly susceptible to metabolism by cytochrome p450 3a4 ( e , g , , <e10> drug1 </e10> , quinidine , carbamazepine , diazepam , phenytoin , primidone , sulfasalazine , and zidovudine ) may have an increased clearance of <e20> drug2 </e20> , resulting in high serum concentrations .
+mechanism	<e11> drug1 </e11> may also enhance the absorption of <e20> drug2 </e20> , which is a drug2 metabolite , by stimulating hepatic enzymes .
+mechanism	in vitro studies have shown that <e10> drug1 </e10> significantly inhibited the metabolism of <e20> drug2 </e20> and methanol ( one of the major isomers of drug2 ) to produce a 2 - to 3 - fold increase in drug1 levels .
+mechanism	use in conjunction with other potentially effective anticonvulsants : concurrent use of <e11> drug1 </e11> with phenytoin , carbamazepine , phenobarbital , phenytoin _ hcl , alprazolam , triazolam , <e20> drug2 </e20> , cisapride , disulfiram , phenytoin , alprazolam , phenytoin _ hcl , disulfiram , phenobarbital , disulfiram , and tricyclic _ antidepressants ( with alprazolam or phenytoin in the peak plasma concentration ) may cause clinically significant increases in drug1 plasma levels .
+mechanism	the administration of <e10> drug1 </e10> at # mg kg ( - 1 ) on a daily basis for # days , to a group of patients , resulted in a significant reduction in the plasma concentrations of <e20> drug2 </e20> and its active metabolite , drug2 , by a mean of 30 % and 40 % , respectively .
+mechanism	in vitro , <e10> drug1 </e10> significantly inhibited <e20> drug2 </e20> clearance .
+mechanism	agents that are c - derivative inhibitors ( e , g , , <e10> drug1 </e10> ) have been reported to decrease <e20> drug2 </e20> absorption , and therefore , the therapeutic effect of drug2 may be compromised .
+mechanism	phenytoin / drug1 : <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> and drug2 may decrease the clearance of phenobarbital .
+mechanism	<e11> drug1 </e11> may decrease the serum concentrations of <e20> drug2 </e20> , thus decreasing its effect on the central nervous system .
+mechanism	geocillin ( <e10> drug1 </e10> ) may decrease the bioavailability of <e20> drug2 </e20> , a drug that is metabolized by cytochrome p450 3a4 ( cyp3a4 ) .
+mechanism	use in conjunction with other drugs : drug interactions : niacin : the potential for increases in plasma levels of <e10> drug1 </e10> and other prohormones in the presence of other drugs that affect metabolism of these agents ( eg , <e20> drug2 </e20> , phenytoin , barbiturates , reserpine , tricyclic _ antidepressants ) may be significant .
+mechanism	products containing <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> and its derivatives , as well as may decrease the clearance of nonsteroidal _ anti - inflammatory _ drugs .
+mechanism	warfarin : co - administration of <e10> drug1 </e10> decreased the exposure of <e20> drug2 </e20> to the liver and the renal tubules , resulting in a tendency for a lower plasma volume for drug2 than usual .
+mechanism	midazolam : <e10> drug1 </e10> may reduce the metabolism of <e20> drug2 </e20> .
+mechanism	carbamazepine : coadministration of <e10> drug1 </e10> ( 10 mg / kg / day ) and <e20> drug2 </e20> ( 1 mg / kg / day ) for # days resulted in a 40 % reduction in drug1 clearance .
+mechanism	carbamazepine : <e11> drug1 </e11> may decrease the bioavailability of <e20> drug2 </e20> , resulting in decreased serum drug2 levels .
+mechanism	pharmacokinetic studies have shown that <e10> drug1 </e10> may decrease the half - life of <e20> drug2 </e20> by a factor of 3 - 5 .
+mechanism	digoxin : <e10> drug1 </e10> may interfere with metabolism of <e20> drug2 </e20> , resulting in a lower serum level of drug2 .
+mechanism	antacids : in a dose - escalation study , <e10> drug1 </e10> was found to reduce the intestinal absorption of <e20> drug2 </e20> and its glucuronide and sulfate components by 33 % and 42 % , respectively .
+mechanism	in normal volunteers , <e10> drug1 </e10> # mg once daily decreased plasma levels of <e20> drug2 </e20> , by 19 % .
+mechanism	the oral bioavailability of <e11> drug1 </e11> was significantly higher in healthy volunteers given a single oral dose of # mg of <e20> drug2 </e20> than in volunteers given a single dose of # mg of a single - dose dose of loperamide ( p = 0 . 017 ) .
+mechanism	the gastrointestinal absorption of <e11> drug1 </e11> was reduced by approximately 50 % when coadministered with <e20> drug2 </e20> .
+mechanism	in addition to phenytoin , <e10> drug1 </e10> also significantly increased the plasma concentrations of the <e20> drug2 </e20> metabolite , and hence the plasma concentrations of the drug2 inhibitory metabolite .
+mechanism	effect of aeds on cyp3a4 activity : in vitro , <e10> drug1 </e10> reduced <e20> drug2 </e20> activity by 18 % and increased drug2 clearance by 15 % .
+mechanism	warfarin : quinolones , such as <e10> drug1 </e10> , may reduce the clearance of <e20> drug2 </e20> and increase the potential for interaction with the prothrombin time .
+mechanism	phenobarbital : coadministration of <e10> drug1 </e10> with either <e20> drug2 </e20> or norethindrone ( 3 and # mg / kg , s , c , ) resulted in a 46 % and 11 % increase in peak serum and urine levels of cyclosporine a , respectively , at # hours after dosing .
+mechanism	antacid ( maalox ) and caffeine : antacids or <e10> drug1 </e10> may inhibit the absorption of <e20> drug2 </e20> .
+mechanism	drugs metabolized by cyp3a4 : nizoral and metoclopramide , and certain other <e12> drug1 </e12> , such as phenytoin , carbamazepine , phenobarbital , phenytoin _ succinate , phenytoin , and phenytoin _ hydrochloride , have been reported to inhibit metabolism of <e20> drug2 </e20> .
+mechanism	the cmax of <e10> drug1 </e10> was # times higher in patients who received a single <e20> drug2 </e20> dose .
+mechanism	antacids or h _ 2 _ receptor _ antagonists : <e10> drug1 </e10> , phenobarbital , and other gastrointestinal antacids , anticonvulsants , and certain drugs known to prolong the gastrointestinal transit time may increase the oral absorption of <e20> drug2 </e20> .
+mechanism	mao _ inhibitors maoi _ antidepressants , <e10> drug1 </e10> , and quinidine , however , inhibit <e20> drug2 </e20> metabolism to the same extent , resulting in lower plasma concentrations of drug2 and higher auc .
+mechanism	alcohol : it has been reported that <e10> drug1 </e10> may decrease the metabolism of <e20> drug2 </e20> and increase the auc of the metabolite of drug2 , thus resulting in a lower auc of the metabolite of drug2 .
+mechanism	conclusions : single - dose <e10> drug1 </e10> has a tendency to decrease <e20> drug2 </e20> absorption .
+mechanism	propantheline and <e10> drug1 </e10> increases the plasma levels of <e20> drug2 </e20> and its metabolism is impaired by cimetidine .
+mechanism	cholestyramine - concomitant intake of <e10> drug1 </e10> with <e20> drug2 </e20> ( 200 mg daily ) produced a 3 . 7 - fold increase in hepatic excretion of drug2 compared with drug2 alone .
+mechanism	however , the systemic absorption of <e10> drug1 </e10> is increased in the presence of <e20> drug2 </e20> .
+mechanism	however , in a randomized , crossover study , # mg of <e10> drug1 </e10> decreased the plasma levels of <e20> drug2 </e20> by 25 % .
+mechanism	coadministration with compounds with inhibitory activity of drug2 metabolism ( e , g , , <e10> drug1 </e10> , phenobarbital , alfentanil , cisapride , disopyramide , disulfiram ) increases <e20> drug2 </e20> plasma concentrations by increasing the metabolism of drug2 to phenylbutazone , which is a strong inhibitor of drug2 metabolism .
+mechanism	protease _ inhibitors : amprenavir , <e10> drug1 </e10> , and saquinavir may interfere with the metabolism of <e20> drug2 </e20> , resulting in decreased plasma levels and increased serum and urine levels of drug2 .
+mechanism	in vitro studies indicate that <e10> drug1 </e10> significantly inhibits the metabolism of <e20> drug2 </e20> .
+mechanism	drugs that induce cyp3a4 activity , such as theophylline , corticosteroids , and <e10> drug1 </e10> , may increase plasma concentrations of <e20> drug2 </e20> .
+mechanism	limited data in experimental animals suggest that <e10> drug1 </e10> may increase the renal clearance of <e20> drug2 </e20> .
+mechanism	the clearance of <e10> drug1 </e10> was reduced by about # % when it was administered concurrently with <e20> drug2 </e20> , a known renal toxicity inducer .
+mechanism	hepatic enzyme inducers , such as alfentanil , <e10> drug1 </e10> , and quinidine have been reported to reduce plasma levels of <e20> drug2 </e20> and increase its half - life by at least 50 % .
+mechanism	concomitant use of <e10> drug1 </e10> may increase the metabolism of <e20> drug2 </e20> and other anticonvulsants , resulting in reduced plasma concentrations of these drugs .
+mechanism	drug1 : <e10> drug1 </e10> may reduce the bioavailability of <e20> drug2 </e20> .
+mechanism	binding to serum : in a non - human population , <e10> drug1 </e10> was shown to reduce the serum concentration of <e20> drug1 </e20> in those on a high - dose regimen .
+mechanism	protein binding in vitro data suggest that <e10> drug1 </e10> increases the plasma levels of <e20> drug2 </e20> .
+mechanism	warfarin : co - administration of <e10> drug1 </e10> with <e20> drug2 </e20> or quinine resulted in a significant increase in the auc and cmax of drug2 .
+mechanism	agents that are potent inhibitors of cyp2c9 ( eg , drug2 , <e10> drug1 </e10> , nefazodone , troleandomycin , clarithromycin , nefazodone , ritonavir , indinavir , saquinavir , saquinavir _ topiramate ) may increase plasma levels of <e20> drug2 </e20> .
+mechanism	cimetidine : a potent inhibitor of cyp3a4 , <e10> drug1 </e10> may decrease the clearance of <e20> drug2 </e20> .
+mechanism	this decrease in the bioavailability of <e10> drug1 </e10> was likely due to the lower metabolism of <e20> drug2 </e20> and the increased conversion of cypermethrin to a more toxic metabolite .
+mechanism	the absorption of <e10> drug1 </e10> is increased by the concomitant administration of <e20> drug2 </e20> .
+mechanism	these studies indicate that the metabolism of <e10> drug1 </e10> is increased in the presence of <e20> drug2 </e20> and that there may be an interaction with the following : halothane ; ( 4 ) the metabolism of halothane and drug1 may be increased with the following : drug1 ( 10 mg kg ( - 1 ) ) plus halothane ( 20 mg kg ( - 1 ) ) for up to # hours ; ( 5 ) drug1 ( 10 mg kg ( - 1 ) ) plus halothane ( 20 mg kg ( - 1 ) ) for # hours .
+mechanism	phenobarbital : coadministration of <e11> drug1 </e11> and <e20> drug2 </e20> for # weeks decreased the mean auc of propranolol by approximately 23 % .
+mechanism	resins : since <e10> drug1 </e10> , and other well known metformin derivatives , inhibit the metabolism of <e20> drug2 </e20> , it is recommended that the drug2 be administered with concurrent high dose dosing of drug1 .
+mechanism	some <e12> drug1 </e12> , such as ciprofloxacin , have been reported to inhibit the metabolism of oral <e20> drug2 </e20> by interfering with the hepatic enzyme system and / or the renal and / or hepatic biliary systems .
+mechanism	in a multiple - dose study in healthy volunteers , the maximum plasma levels of <e10> drug1 </e10> were reduced by approximately 50 % when it was co - administered with <e20> drug2 </e20> and increased by approximately 25 % when it was co - administered with dantrolene .
+mechanism	oral doses of <e10> drug1 </e10> # mg once daily decreased the exposure of <e20> drug2 </e20> by 50 % .
+mechanism	the daily dose of <e10> drug1 </e10> can be reduced by more than 50 % by concurrent use of <e20> drug2 </e20> , and this reduction is most pronounced with the combination of drug2 and cyp3a4 substrates that are highly active in animals .
+mechanism	ketoconazole : in a single study , a 3 - day regimen of <e10> drug1 </e10> was found to result in a mean decrease in half - life of <e20> drug2 </e20> from # to # minutes .
+mechanism	drugs that inhibit cyp2c9 : cyclosporine , tacrolimus , <e10> drug1 </e10> , phenytoin , drug1 plus sulfasalazine , cimetidine , alfentanyl , and alfentanyl concomitantly inhibit the metabolism of <e20> drug2 </e20> .
+mechanism	drug1 : <e10> drug1 </e10> has been reported to decrease the clearance of <e20> drug2 </e20> and the extent of renal tubular damage in a murine model of hemodynamic instability .
+mechanism	apparent oral clearance of <e10> drug1 </e10> was increased approximately 15 - fold by coadministration of <e20> drug2 </e20> , a negative inotropic effect of which may enhance absorption of drug1 .
+mechanism	in vitro studies have shown that <e10> drug1 </e10> may inhibit <e20> drug2 </e20> binding .
+mechanism	calcium _ antagonist s : after coadministration of <e10> drug1 </e10> # mg and <e20> drug2 </e20> s , the dose of the prodrug increased by 17 % and was observed to increase by 18 % after coadministration of the drug2 s for # days and to increase by 20 % after coadministration for # days of triamterene and atorvastatin .
+mechanism	drug1 ( carbamazepine , felbamate , phenobarbital , phenytoin ) : <e12> drug1 </e12> , especially carbamazepine , may increase the clearance of <e20> drug2 </e20> .
+mechanism	leucovorin : the oral clearance of <e10> drug1 </e10> increased significantly following administration of <e20> drug2 </e20> at # mg / kg / day .
+mechanism	phenytoin : population studies have demonstrated that <e10> drug1 </e10> may decrease the clearance of <e20> drug2 </e20> .
+mechanism	resins : since drug2 is a major component of resins , and <e10> drug1 </e10> is a co - factor for the metabolism of <e20> drug2 </e20> , high serum levels of drug1 may induce a decrease in the activity of drug1 supplements containing drug1 containing compounds ( such as drug1 salts and mixtures of drug1 and other elements )
+mechanism	at # hours after intravenous <e10> drug1 </e10> injection , <e20> drug2 </e20> increased approximately twofold and the half - life decreased from # to # hours .
+mechanism	presumably , <e10> drug1 </e10> would have the potential to interact with <e20> drug2 </e20> by increasing plasma concentrations .
+mechanism	repeated doses of <e11> drug1 </e11> # times in # days produced a 50 % increase in the steady - state plasma concentration of <e20> drug2 </e20> and an increase in steady - state cmax of # mg / day .
+mechanism	drug1 : <e10> drug1 </e10> may decrease the clearance of <e20> drug2 </e20> and increase the auc of drug2 .
+mechanism	<e10> drug1 </e10> has been shown to reduce the absorption of <e20> drug2 </e20> by the conjugation of the drug with sulfate or thiazide _ diuretics , resulting in a decrease in the half - life of drug2 .
+mechanism	the plasma concentration of <e10> drug1 </e10> was increased by approximately 50 % when it was administered with <e20> drug2 </e20> .
+mechanism	ibuprofen - <e10> drug1 </e10> may decrease the bioavailability of <e20> drug2 </e20> by altering the absorption of drug2 .
+mechanism	drug1 : <e10> drug1 </e10> reduced the plasma level of <e20> drug2 </e20> and the drug2 - induced urinary ph change by approximately 20 % and decreased the drug2 effect on plasma ascorbic acid by approximately 20 % .
+mechanism	agents that are cyp3a4 inhibitors , such as <e10> drug1 </e10> , may decrease the half - life of <e20> drug2 </e20> by approximately 3 % .
+mechanism	antacids or h _ 2 _ receptor _ antagonists , or drugs that have high affinity for h _ 2 _ receptor ( e , g , , amiodarone , nicardipine , <e10> drug1 </e10> ) may interfere with absorption of <e20> drug2 </e20> and cause serum levels to be elevated .
+mechanism	inhibitors of cyp3a4 ( e , g , , drug2 , itraconazole , erythromycin , clarithromycin , <e10> drug1 </e10> , nelfinavir , indinavir , saquinavir , indinavir , saquinavir ) have been reported to have a significant decrease in <e20> drug2 </e20> plasma concentrations and have an additive effect on the absorption of this antifungal with plasma concentrations as low as # ng / ml .
+mechanism	drug1 : <e10> drug1 </e10> decreases the renal clearance of <e20> drug2 </e20> , resulting in increased serum levels and elimination of this medication .
+mechanism	drug1 : <e10> drug1 </e10> may decrease the metabolism of <e20> drug2 </e20> by affecting its metabolism in the renal and hepatic venous systems .
+mechanism	antibiotics : <e12> drug1 </e12> may decrease the bioavailability of <e22> drug2 </e22> .
+mechanism	in normal volunteers , <e10> drug1 </e10> increased the clearance of <e20> drug2 </e20> from 535 to 1410 % and that of theophylline from 0 to 34 % .
+mechanism	drug1 : <e10> drug1 </e10> was found to decrease the metabolism of <e20> drug2 </e20> and its metabolites in the liver , resulting in increased estrogenic effects .
+mechanism	benzodiazepines : combination <e12> drug1 </e12> such as phenytoin , phenobarbital , carbamazepine , alprazolam , triazolam , astemizole , ziconazole , or ergot _ derivatives may interfere with <e20> drug2 </e20> absorption and lead to excessive decrease in drug2 clearance .
+mechanism	concurrent use of <e10> drug1 </e10> may reduce the bioavailability of <e20> drug2 </e20> , a potent cyp3a4 inhibitor .
+mechanism	anticonvulsants : in vitro data indicate that <e11> drug1 </e11> may increase the metabolism of phenytoin , carbamazepine , and phenobarbital and decrease the metabolism of <e20> drug2 </e20> .
+mechanism	there is a small increase in plasma concentration of <e10> drug1 </e10> when administered with <e20> drug2 </e20> .
+mechanism	barbiturates , carbamazepine , and other <e12> drug1 </e12> , such as phenobarbital , phenytoin , felbamate , carbamazepine , felbamate , diazepam , and triazolam , inhibit the metabolism of <e20> drug2 </e20> , resulting in low serum levels .
+mechanism	these studies indicate that <e10> drug1 </e10> may increase the plasma concentrations of <e20> drug2 </e20> by about # - fold , and that some drugs that inhibit hepatic metabolism of drug2 may increase the plasma concentrations of drug2 by about # - fold .
+mechanism	carbamazepine : elevated plasma concentrations of <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> , resulting in a decrease in the auc and cmax values .
+mechanism	colchicine para - aminosalicylic _ acid and <e10> drug1 </e10> inhibit the hepatic metabolism of <e20> drug2 </e20> .
+mechanism	phenytoin : in a randomized , double - blind , crossover study in healthy volunteers , <e10> drug1 </e10> was found to reduce the plasma concentrations of <e20> drug2 </e20> and the auc of drug2 in healthy volunteers by approximately 20 % .
+mechanism	agents that are hepatic enzymes ( e , g , , <e10> drug1 </e10> , triazolam , carbamazepine ) increase the clearance of <e20> drug2 </e20> and may therefore increase the amount of drug2 available for absorption and distribution .
+mechanism	in vitro studies suggest that <e10> drug1 </e10> may decrease the clearance of <e20> drug2 </e20> and that increased hepatic clearance of drug2 may increase the concentration of drug2 in plasma .
+mechanism	drug1 : <e10> drug1 </e10> decreased the bioavailability of <e20> drug2 </e20> , which is an oral anticoagulant , by about 10 % .
+mechanism	rifampin : when coadministered with <e10> drug1 </e10> , plasma <e20> drug1 </e20> concentrations were significantly reduced .
+mechanism	warfarin , digoxin , and phenytoin : <e10> drug1 </e10> may increase the metabolism of warfarin , <e20> drug2 </e20> , and phenytoin , resulting in decreased blood levels and increased toxicity .
+mechanism	therefore , it is possible that <e10> drug1 </e10> may increase the rate of absorption of other <e22> drug2 </e22> .
+mechanism	plasma concentrations of <e10> drug1 </e10> are enhanced by the concomitant administration of <e20> drug2 </e20> , thus causing a concurrent increase in renal clearance of drug1 .
+mechanism	in vitro studies suggest that <e10> drug1 </e10> may inhibit the metabolism of <e20> drug2 </e20> and estrogens and may increase the rate of metabolism of these and other progestins .
+mechanism	plasma exposure ( auc ) of <e10> drug1 </e10> decreased by approximately 20 % and the elimination half - life was increased by approximately 15 % following coadministration with <e20> drug2 </e20> .
+mechanism	in vitro studies have shown that the intravenous self - administration of <e11> drug1 </e11> and <e20> drug2 </e20> ( or similar cations ) resulted in a mean increase in ( ±s ) drug2 half - life of 23 % .
+mechanism	corticosteroids : dexamethasone ( <e10> drug1 </e10> ) may decrease the clearance of <e20> drug2 </e20> .
+mechanism	pharmacokinetic studies have shown that <e10> drug1 </e10> significantly increases plasma levels of <e20> drug2 </e20> , which may reduce its renal clearance .
+mechanism	drug1 and charcoal : <e10> drug1 </e10> may increase the plasma concentration of <e20> drug2 </e20> .
+mechanism	the auc of <e10> drug1 </e10> is increased by approximately 30 % when coadministered with <e20> drug2 </e20> .
+mechanism	pharmacokinetic studies have demonstrated that <e10> drug1 </e10> significantly increases plasma concentrations of <e20> drug2 </e20> and isoniazid and significantly decreases plasma concentrations of drug2 and nicotinamide .
+mechanism	antacids : in some patients , an increase in the drug2 excretion may occur when <e10> drug1 </e10> is administered concurrently with <e20> drug2 </e20> .
+mechanism	phenytoin : population pharmacokinetics of <e10> drug1 </e10> was increased by concomitant administration with <e20> drug2 </e20> .
+mechanism	antifungals : in vitro data indicate that <e10> drug1 </e10> may inhibit <e20> drug2 </e20> and itraconazole metabolism and that the metabolic clearance of itraconazole may be reduced by the concomitant use of anabolic _ steroids such as drug1 .
+mechanism	aspirin : when coadministered with <e10> drug1 </e10> , the combination may decrease the absorption of <e20> drug2 </e20> , resulting in lower serum levels .
+mechanism	<e11> drug1 </e11> may inhibit the metabolism of <e20> drug2 </e20> , a drug that is used in some patients with schizophrenia to treat symptoms such as a deceleration of speech or a reduction in attention .
+mechanism	inhibitors or substrates of cyp3a4 ( such as ketoconazole , <e10> drug1 </e10> , erythromycin , clarithromycin , ritonavir , nelfinavir , saquinavir , indinavir , indinavir _ sulfate , and ritonavir _ sulfate ) may increase plasma concentrations of <e20> drug2 </e20> and may need to be monitored closely for possible drug2 toxicity .
+mechanism	antacids or h _ 2 _ receptor _ antagonists : although studies have not been performed , <e10> drug1 </e10> might reduce the metabolism of <e20> drug2 </e20> .
+mechanism	there was a statistically significant reduction in the cmax of <e10> drug1 </e10> by approximately 26 % when it was co - administered with <e20> drug1 </e20> , and there was a 7 % decrease in auc of drug1 when it was co - administered with cyclosporine .
+mechanism	agents that are cyp3a4 inhibitors ( e , g , , ketoconazole , <e10> drug1 </e10> , erythromycin , clarithromycin ) may increase plasma levels of <e20> drug2 </e20> and may require increases in dose to achieve therapeutic plasma concentrations .
+mechanism	<e10> drug1 </e10> increased the plasma levels of <e20> drug2 </e20> , an inhibitor of n - acetyltransferase , and the half - life of drug2 was lengthened .
+mechanism	limited data in humans suggest that <e10> drug1 </e10> may decrease <e20> drug2 </e20> absorption , and therefore increase the risk of drug2 toxicity .
+mechanism	quinidine , <e10> drug1 </e10> , and carbamazepine may reduce the clearance of <e20> drug2 </e20> , causing a substantial increase in systemic exposure .
+mechanism	mao _ inhibitors : maoi _ antidepressants , including <e10> drug1 </e10> , have been reported to decrease <e20> drug2 </e20> clearance .
+mechanism	sulindac : the <e10> drug1 </e10> # mg tablet significantly decreased the auc and cmax of <e20> drug2 </e20> by 44 % and 50 % , respectively .
+mechanism	previous studies have shown that <e10> drug1 </e10> , administered at doses of # mg / kg , # mg / kg , and # mg / kg , significantly decreased plasma concentrations of <e20> drug2 </e20> .
+mechanism	interactions for drug2 _ analogues : use with <e10> drug1 </e10> or cyclosporine may reduce the clearance of <e20> drug2 </e20> by blocking its hepatic metabolism .
+mechanism	<e10> drug1 </e10> may decrease the clearance of <e20> drug2 </e20> by inhibiting cyp3a4 and increasing endogenous drug2 levels .
+mechanism	in a single - dose , oral dose study , <e10> drug1 </e10> ( 100 mg twice daily ) significantly increased the area under the curve of <e20> drug2 </e20> from # % to # % , with an increase in peak plasma drug2 concentration of # % from # to # micrograms / ml .
+mechanism	phenobarbital : <e12> drug1 </e12> , including phenobarbital , inhibit metabolism of <e20> drug2 </e20> .
+mechanism	co - administration of <e10> drug1 </e10> decreased the bioavailability of <e20> drug2 </e20> by 43 % .
+mechanism	plasma concentrations of <e10> drug1 </e10> were reduced by approximately 50 % when coadministered with <e20> drug2 </e20> .
+mechanism	drugs such as <e10> drug1 </e10> and phenytoin may increase plasma levels of <e20> drug2 </e20> , thus decreasing absorption of the active ingredient .
+mechanism	in addition , several other nonsteroidal _ anti - inflammatory _ drugs ( <e12> drug1 </e12> ) have been shown to inhibit the absorption of <e20> drug2 </e20> .
+mechanism	metoclopramide : bioavailability of <e10> drug1 </e10> decreased by a mean of 32 % when <e20> drug2 </e20> was added to the regimen .
+mechanism	antacids ( aluminum or magnesium ) <e10> drug1 </e10> significantly decreased the gastrointestinal absorption of <e20> drug2 </e20> .
+mechanism	human pharmacokinetics data from clinical studies of <e10> drug1 </e10> suggest a reduction in the auc of <e20> drug2 </e20> by approximately 50 % and an increase in auc of drug2 by approximately 25 % .
+mechanism	cyclosporine , digoxin , methotrexate , tetracycline , and phenytoin : <e10> drug1 </e10> increased serum levels of <e20> drug2 </e20> , cyclosporine , and methotrexate .
+mechanism	uricosuric _ drugs , such as <e10> drug1 </e10> , may decrease the metabolism of <e20> drug2 </e20> and therefore increase the systemic exposure of drug2 .
+mechanism	inhibitors of cyp3a4 ( such as ketoconazole , itraconazole , and erythromycin ) and cyp2d6 ( such as <e10> drug1 </e10> , clarithromycin , and nefazodone ) may increase plasma levels of <e20> drug2 </e20> and induce toxicity .
+mechanism	co - medications that induce cyp3a4 activity , including selective _ serotonin _ reuptake _ inhibitors ( ssris ) , <e10> drug1 </e10> , and fluvoxamine , as well as some tricyclic _ antidepressants , may result in an increase in plasma concentrations of <e20> drug2 </e20> .
+mechanism	the most commonly reported drug interactions are : <e10> drug1 </e10> has been reported to increase the clearance of other <e22> drug2 </e22> and may therefore increase the potential for an increase in blood pressure when taken concomitantly with these drugs .
+mechanism	quinidine : coadministration of <e11> drug1 </e11> and <e20> drug2 </e20> was associated with a 2 . 2 - fold increase in the clearance of drug2 .
+mechanism	co - medications that induce cyp3a4 activity ( eg , cyclosporine , tacrolimus , phenytoin , carbamazepine , phenobarbital , drug2 , <e10> drug1 </e10> , disopyramide , quinidine , quinidine _ hcl , rifampin , valproate , lovastatin ) can increase plasma concentrations of <e20> drug2 </e20> and may necessitate increased drug2 dose to achieve the desired auc .
+mechanism	in a study in healthy volunteers , oral <e10> drug1 </e10> significantly decreased the oral bioavailability of <e20> drug2 </e20> by 38 % and the elimination half - life by 38 % .
+mechanism	the most commonly reported drug interactions are inhibition of cyp3a4 by drug1 ( e , g , , <e10> drug1 </e10> s dose has been reduced by 50 % in patients receiving a dose of # mg of <e20> drug2 </e20> daily ) , reduction in cmax and auc by 43 % and 46 % , and increase in cmin by 48 % and 30 % , respectively .
+mechanism	ketoconazole : co - administration of <e10> drug1 </e10> with <e20> drug2 </e20> resulted in a 3 . 4 % increase in cmax and a 17 % decrease in auc .
+mechanism	these studies indicate that <e10> drug1 </e10> significantly reduces the hepatic metabolism of <e20> drug2 </e20> and significantly prolongs the qt interval on the ecg .
+mechanism	diltiazem : in a study in healthy volunteers , <e10> drug1 </e10> was found to reduce the auc of <e20> drug2 </e20> by approximately 22 % ( p = 0 . 0001 ) .
+mechanism	drug1 and sucralfate : <e12> drug1 </e12> decrease the absorption of <e20> drug2 </e20> , resulting in decreased serum concentrations .
+mechanism	hydrochlorothiazide : in vitro data indicate that <e10> drug1 </e10> has the potential to inhibit the metabolism of <e20> drug2 </e20> .
+mechanism	multivalent cation - containing products : the rate of absorption of <e10> drug1 </e10> decreased approximately one - third as a result of simultaneous administration of <e20> drug2 </e20> and multivalent cation - containing products ( e , g , , sucralfate ) .
+mechanism	co - administration of <e11> drug1 </e11> significantly increased the clearance of <e20> drug2 </e20> by approximately 2 % for each dose increase , which may result in approximately 4 - to 6 - fold increases in auc values .
+mechanism	drug1 : <e10> drug1 </e10> may increase the metabolism of <e20> drug2 </e20> and the resulting oral concentrations of the latter two agents .
+mechanism	plasma concentrations of <e10> drug1 </e10> were increased when it was administered concomitantly with <e20> drug2 </e20> , the commonest cause of cardiac toxicity .
+mechanism	drug1 : <e10> drug1 </e10> increased the auc and the cmax of <e20> drug2 </e20> by 34 % and 67 % , respectively , while decreasing the auc and the cmax of the parent drug drug2 by 27 % and 37 % , respectively .
+mechanism	drug1 : <e10> drug1 </e10> can increase the clearance of <e20> drug2 </e20> , causing a 4 - fold increase in the maximum plasma concentration of drug2 .
+mechanism	plasma exposure ( auc ) of <e10> drug1 </e10> is increased by 50 % when coadministered with <e20> drug2 </e20> .
+mechanism	in a placebo - controlled study in healthy volunteers , <e10> drug1 </e10> # mg decreased the elimination of <e20> drug2 </e20> by 17 % compared with placebo .
+mechanism	inducers and inhibitors of e1 - e2 - transport : although not studied in humans , the possibility that <e10> drug1 </e10> may decrease the renal clearance of <e20> drug2 </e20> should be considered .
+mechanism	<e10> drug1 </e10> significantly increased the plasma concentrations of <e20> drug2 </e20> and its active metabolite , ketoconazole .
+mechanism	elevated serum levels of <e10> drug1 </e10> may have resulted in an increased clearance of <e20> drug2 </e20> and may have reduced the efficacy of drug1 .
+mechanism	in vitro , <e10> drug1 </e10> has been shown to inhibit the metabolism of <e20> drug2 </e20> .
+mechanism	<e10> drug1 </e10> significantly decreased the absorption of <e20> drug2 </e20> , thus decreasing the bioavailability of the latter .
+mechanism	drug1 : <e10> drug1 </e10> may interfere with the metabolism of <e20> drug2 </e20> , resulting in decreased clearance of cephalosporins , sulfonamides , sulfonamides with hepatic metabolism , and quinine , resulting in lower half - life and increased half - life .
+mechanism	the plasma concentration of <e10> drug1 </e10> increases by approximately # % when administered with <e20> drug2 </e20> .
+mechanism	similarly , <e10> drug1 </e10> is shown to inhibit the metabolism of the <e20> drug2 </e20> via a non - steroidal _ anti - inflammatory _ drug ( indomethacin ) mechanism .
+mechanism	drug1 : <e10> drug1 </e10> reduces the serum levels of <e20> drug2 </e20> , but not the serum levels of either diclofenac or diltiazem .
+mechanism	drug1 : aspirin : <e10> drug1 </e10> can increase the rate of absorption of <e20> drug2 </e20> by approximately 50 % .
+mechanism	reports in the literature indicate that <e10> drug1 </e10> may decrease the clearance of <e20> drug2 </e20> .
+mechanism	calcium _ antagonist s : after <e10> drug1 </e10> administration , <e20> drug2 </e20> levels increased by 28 % and cilostazol by 5 % .
+mechanism	drug1 : <e10> drug1 </e10> may reduce the clearance of <e20> drug2 </e20> , resulting in increased plasma concentrations .
+mechanism	( 1968 , 1970 ) , the following reactions have been reported : anticoagulants : <e10> drug1 </e10> may decrease the clearance of the anticoagulant , phenytoin , amiodarone , and <e20> drug2 </e20> .
+mechanism	products containing calcium _ antagonist _ agents ( <e10> drug1 </e10> , amiodarone , or disopyramide ) decrease the plasma levels of <e20> drug2 </e20> .
+mechanism	the results of pharmacokinetic studies of <e11> drug1 </e11> indicated a 20 % increase in cmax and auc of <e20> drug2 </e20> compared to baseline .
+mechanism	binding to serum albumin : in vitro , <e10> drug1 </e10> inhibited <e20> drug2 </e20> binding to serum albumin by approximately 50 % and drug2 binding to serum albumin was reduced by approximately 40 % when administered # hours after drug1 .
+mechanism	multivalent cation - containing products : <e10> drug1 </e10> may decrease the bioavailability of multivalent cation - containing products such as <e20> drug2 </e20> , diltiazem , diltiazem hydrochloride , phenytoin , phenobarbital , and triazolam .
+mechanism	binding to serum : the addition of <e10> drug1 </e10> to the regimen of a standard daily dose of <e20> drug2 </e20> reduced the clearance of drug2 by approximately 60 % ( 95 % ci : 46 % , 73 % ) , which was prevented by the addition of arava ( about # mg of drug1 / day on average ) .
+mechanism	carbamazepine : <e11> drug1 </e11> increased the plasma concentration of <e20> drug2 </e20> by approximately 2 - fold and the elimination half - life of drug2 by approximately 3 - fold .
+mechanism	magnesium - and drug1 - containing antacids , <e10> drug1 </e10> containing antacids , and h2 - blocking agents may interfere with <e20> drug2 </e20> absorption , leading to increases in serum and urine levels of drug2 .
+mechanism	other potentially important drug interactions : acetazolamide : <e10> drug1 </e10> may decrease the clearance of <e20> drug1 </e20> .
+mechanism	the results raise the possibility that <e10> drug1 </e10> may interfere with <e20> drug2 </e20> clearance and result in a decreased drug2 concentration .
+mechanism	cyclosporine : administration of <e10> drug1 </e10> increases the clearance of <e20> drug2 </e20> and may increase the absorption of digoxin , drug2 , and theophylline .
+mechanism	total body clearance of <e10> drug1 </e10> is reduced by the anticonvulsant <e20> drug2 </e20> , a potent inhibitor of drug1 metabolism .
+mechanism	dexamethasone : steady - state <e10> drug1 </e10> concentrations decrease by approximately 40 % when <e20> drug2 </e20> is co - administered .
+mechanism	cytochrome p - 450 inducers , such as <e10> drug1 </e10> , may increase the clearance of <e20> drug2 </e20> .
+mechanism	ethinyl _ estradiol and drug1 : <e10> drug1 </e10> may decrease the metabolism of <e20> drug2 </e20> or estradiol , resulting in elevated plasma levels of estradiol and lower plasma concentrations of estradiol and progestins .
+mechanism	ethanol : clinical evidence suggests that <e10> drug1 </e10> may decrease the clearance of <e20> drug2 </e20> .
+mechanism	the following are examples of drugs which may decrease the plasma concentrations of <e10> drug1 </e10> by severalfold : barbiturates , corticosteroids , corticotropin , corticotropin _ intravenous ( iv ) , corticotropin _ subcutaneous ( sc ) , corticotropin _ intravenous ( iv ) , cyclosporine , dapsone , digoxin , fentanyl , fentanyl transdermal system ( tds ) , fentanyl nasal spray , oral contraceptives , <e20> drug2 </e20> , sildenafil , warfarin , triazolam , troleandomycin , up - titre sildenafil
+mechanism	mao _ inhibitors maoi _ antidepressants , <e10> drug1 </e10> , paroxetine , sertraline , and aripiprazole may decrease <e20> drug2 </e20> absorption , potentially resulting in increased plasma levels of drug2 and potential renal toxicity .
+mechanism	drug1 : <e10> drug1 </e10> may interfere with the metabolism of <e20> drug2 </e20> , resulting in elevated plasma levels .
+mechanism	agents that induce hepatic enzyme reactions ( eg , <e10> drug1 </e10> , phenytoin , etc , ) may increase the clearance of <e20> drug2 </e20> and cause an increase in the rate of elimination of drug2 .
+mechanism	drugs which induce hepatic enzymes such as <e10> drug1 </e10> , rifampin , or phenobarbital may increase the clearance of <e20> drug2 </e20> and reduce the absorption of drug2 .
+mechanism	products containing calcium supplements containing <e10> drug1 </e10> , iron , or iron _ withdrawal products may increase the exposure of <e20> drug2 </e20> and may decrease the therapeutic index of drug2 .
+mechanism	ethanol : clinical evidence suggests that <e10> drug1 </e10> may inhibit the metabolism of <e20> drug2 </e20> and other related drugs .
+mechanism	in clinical trials , the combination of <e10> drug1 </e10> and <e20> drug2 </e20> has been associated with a 7 - fold increase in mean auc for oral zidovudine compared to either drug alone .
+mechanism	when used in combination , there is a strong tendency for the <e12> drug1 </e12> to decrease the absorption of <e20> drug2 </e20> .
+mechanism	the concomitant use of <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> .
+mechanism	drugs which inhibit cyp3a4 activity ( such as ketoconazole , itraconazole , ritonavir , clarithromycin , <e10> drug1 </e10> , nelfinavir , ritonavir , saquinavir , telithromycin ) may result in a decrease in <e20> drug2 </e20> plasma levels .
+mechanism	in the first study , the plasma levels of <e10> drug1 </e10> were increased by # - fold when given with a # - mg dose of <e20> drug2 </e20> .
+mechanism	in vitro , <e10> drug1 </e10> inhibited <e20> drug2 </e20> metabolism by blocking enzyme activity of cyp2d6 .
+mechanism	antifungals : in studies in healthy volunteers , <e10> drug1 </e10> reduced the <e20> drug2 </e20> serum concentration by 20 % and 30 % .
+mechanism	however , other published data suggest that <e10> drug1 </e10> may also inhibit the metabolism of <e20> drug2 </e20> and its derivatives , increasing the half - life and decreasing the half - life of drug2 .
+mechanism	inhibitors or substrates of cyp3a4 ( alprazolam , <e10> drug1 </e10> , etc , ) have been reported to increase <e20> drug2 </e20> plasma concentrations .
+mechanism	on the basis of these results , <e10> drug1 </e10> has been shown to reduce the <e20> drug2 </e20> elimination by approximately 25 % and may have the potential to increase plasma concentrations of the active metabolite drug2 .
+mechanism	previous studies have shown that <e12> drug1 </e12> decrease the clearance of <e20> drug2 </e20> , and the rate of clearance is increased by the coadministration of these agents .
+mechanism	when used in the clinical setting , <e10> drug1 </e10> may increase the plasma concentration of <e20> drug2 </e20> , decreasing its absorption and , therefore , increasing its toxicity .
+mechanism	<e10> drug1 </e10> has been reported to decrease <e20> drug2 </e20> clearance and to increase the cmax and auc of drug2 .
+mechanism	in em individuals , <e10> drug1 </e10> # mg ( 1 , 000 mg twice daily for # days ) resulted in a 50 % increase in plasma exposure of <e20> drug2 </e20> .
+mechanism	because oral <e12> drug1 </e12> interfere with the gastrointestinal absorption of <e20> drug2 </e20> , the concomitant use of drug1 with drug2 is contraindicated .
+mechanism	ethosuximide : <e12> drug1 </e12> may reduce the bioavailability of <e20> drug2 </e20> , a potent inducer of hepatic metabolism of drugs that are hepatic metabolism inhibitors ( eg , alcohol , succinylcholine , carbamazepine , carbamazepine , theophylline , bromocriptine , phenobarbital , valproic _ acid ) .
+mechanism	drugs that induce hepatic enzymes such as <e10> drug1 </e10> and phenytoin may increase the clearance of <e20> drug2 </e20> and thereby result in higher plasma concentrations .
+mechanism	phenobarbital : <e12> drug1 </e12> , like other cns _ depressants , can diminish the clearance of <e22> drug2 </e22> and may increase serum concentrations of drug2 .
+mechanism	concomitant use of <e10> drug1 </e10> with <e20> drug1 </e20> in a # mg / day dose increased the auc of drug1 by 27 % and decreased the cmax by 41 % .
+mechanism	the auc of <e10> drug1 </e10> has been shown to decrease slightly in patients taking <e20> drug2 </e20> , the active component of drug2 , concomitantly .
+mechanism	previous studies have shown that <e10> drug1 </e10> and cisplatin are responsible for a marked increase in <e20> drug2 </e20> and its active metabolite , drug2 .
+mechanism	agents that are inducers of cyp3a4 ( e , g , , <e10> drug1 </e10> , carbamazepine , theophylline , phenobarbital , or rifampin ) have been shown to significantly increase <e20> drug2 </e20> plasma concentrations .
+mechanism	<e10> drug1 </e10> , sodium bicarbonate and nacl may reduce the absorption of <e20> drug2 </e20> , causing an increase in the area under the plasma concentration - time curve ( auc ) of the drug .
+mechanism	carbamazepine : elevated plasma concentrations of <e10> drug1 </e10> may reduce the metabolism of <e20> drug2 </e20> and increase the clearance of drug1 .
+mechanism	<e12> drug1 </e12> may decrease the metabolism of <e20> drug2 </e20> , causing a decrease in renal clearance .
+mechanism	drug1 and charcoal : <e10> drug1 </e10> may increase <e20> drug2 </e20> absorption and decrease its glucuronidation .
+mechanism	the clearance of <e10> drug1 </e10> was approximately two - fold higher in the presence of <e20> drug2 </e20> .
+mechanism	agents with increased erythromycin release : the following agents increase the extent to which <e10> drug1 </e10> is taken up by cells in vitro : <e20> drug2 </e20> ( a rifampin metabolite ) , clarithromycin , indinavir , isoniazid , nelfinavir , ritonavir , saquinavir , telithromycin .
+mechanism	drug1 : <e10> drug1 </e10> markedly decreases the clearance of <e20> drug2 </e20> , thus necessitating increases in dosage .
+mechanism	coadministration of <e10> drug1 </e10> # mg / day with an ace _ inhibitor , <e20> drug2 </e20> , or an ace _ inhibitor plus a beta - adrenergic _ blocking _ agent increased drug1 plasma levels by # % , # % , and # % , respectively .
+mechanism	in vitro data suggest that <e10> drug1 </e10> may inhibit the metabolism of <e20> drug2 </e20> .
+mechanism	binding to serum aspirin : <e10> drug1 </e10> has been reported to inhibit the binding of <e20> drug2 </e20> to serum drug2 .
+mechanism	drug1 : <e10> drug1 </e10> increases the metabolism of <e20> drug2 </e20> by causing increased elimination and decreased absorption resulting in a decrease in the total drug2 dose .
+mechanism	co - administration with <e10> drug1 </e10> may reduce the clearance of <e20> drug2 </e20> and thus increase the excretion of drug2 following oral administration .
+mechanism	multivalent cation - containing products : phenytoin , carbamazepine , <e10> drug1 </e10> , and bromocriptine may increase the plasma concentrations of <e20> drug2 </e20> , resulting in increased drug clearance .
+mechanism	<e10> drug1 </e10> can increase the bioavailability of <e20> drug2 </e20> and similar drugs , thereby increasing the potential for toxicity .
+mechanism	the elimination half - life of <e10> drug1 </e10> has been reported to be increased by <e20> drug2 </e20> and decreased by progestin .
+mechanism	some <e12> drug1 </e12> have been reported to interfere with metabolism of <e20> drug2 </e20> , resulting in a net increase in serum concentrations .
+mechanism	drugs that cause hepatic enzyme inhibition ( eg , phenytoin , <e10> drug1 </e10> , alfentanil ) may decrease the clearance of <e20> drug2 </e20> and result in elevated serum concentrations .
+mechanism	the clearance of <e10> drug1 </e10> has been reported to be decreased by the concurrent administration of a high dose of <e20> drug2 </e20> , suggesting that concurrent administration may increase the toxicity of the high dose of drug2 .
+mechanism	<e10> drug1 </e10> decreases the metabolism of <e20> drug2 </e20> , resulting in a higher rate of toxicity .
+mechanism	drug1 or cimetidine : <e10> drug1 </e10> or cimetidine is a hepatic enzyme which may reduce the bioavailability of <e20> drug2 </e20> or other long - acting _ anti - malarial _ agents .
+mechanism	in healthy subjects , administration of <e10> drug1 </e10> # mg daily for # days , # mg twice daily for # days and # mg three times daily for # days resulted in a significant increase in the plasma concentrations of <e20> drug2 </e20> ( by 40 % on day # and 41 % on day # + 2 ) , with no effect on the mean plasma drug2 concentration on day # .
+mechanism	furthermore it has been demonstrated that <e10> drug1 </e10> has a tendency to decrease the half - life of <e20> drug2 </e20> and that there is a correlation between the half - life of these two drugs and the level of drug1 in the blood .
+mechanism	the plasma concentration of <e10> drug1 </e10> increased by 1 . 5 - fold when administered concomitantly with <e20> drug2 </e20> , although the increase was not clinically significant .
+mechanism	antacids or h _ 2 _ receptor _ antagonists : because <e10> drug1 </e10> and h _ 2 _ receptor _ antagonists may decrease the absorption of <e20> drug2 </e20> , it is advisable to avoid taking both for several days after the drug2 injection .
+mechanism	phenobarbital : <e12> drug1 </e12> , such as phenobarbital , have been reported to inhibit the metabolism of <e20> drug2 </e20> and the primary aminoglycoside , sulfadoxine , and to increase the levels of ampicillin and tobramycin .
+mechanism	population pharmacokinetic studies indicate that <e10> drug1 </e10> increases exposure of <e20> drug2 </e20> .
+mechanism	elevated serum levels of <e10> drug1 </e10> may be associated with an increase in the half - life of <e20> drug2 </e20> and hence a decrease in the efficacy of drug2 .
+mechanism	rifampicin : in a clinical study , <e10> drug1 </e10> at # mg daily decreased plasma levels of <e20> drug2 </e20> by approximately 40 % and reduced the cmax by approximately 15 % .
+mechanism	because <e10> drug1 </e10> is known to increase the absorption of <e20> drug2 </e20> , the two drugs may increase the drug2 toxicity risk .
+mechanism	non - nucleoside _ reverse _ transcriptase _ inhibitors ( nnrtis ) ( e , g , , <e10> drug1 </e10> , cimetidine ) may increase the plasma levels of <e20> drug2 </e20> .
+mechanism	the plasma concentration of <e10> drug1 </e10> is decreased by approximately 38 % when it is given with <e20> drug2 </e20> , a potent inducer of renal tubular acidification .
+mechanism	population pharmacokinetic studies have shown that oral <e10> drug1 </e10> plasma levels increase with increases in <e20> drug2 </e20> dose .
+mechanism	rifampicin : in a dose - dependent manner , <e10> drug1 </e10> significantly decreased the half - life of <e20> drug2 </e20> , drug2 metabolized by cyp3a4 , by approximately 3 - fold .
+mechanism	steady - state <e10> drug1 </e10> plasma concentrations were increased by a 2 - fold , mean ( s ) increase in <e20> drug2 </e20> .
+mechanism	drug1 : <e10> drug1 </e10> significantly decreased the drug2 auc and cmax of <e20> drug2 </e20> , but increased the auc and cmax of disulfiram .
+mechanism	dicumarol : it has been suggested that <e10> drug1 </e10> may interfere with the metabolism of <e20> drug2 </e20> , leading to elevated plasma drug2 levels and potentially resulting in elevated plasma concentrations of the diuretic .
+mechanism	drug1 : <e10> drug1 </e10> may increase the metabolism of <e20> drug2 </e20> and therefore prolong prothrombin time .
+mechanism	phenytoin : <e12> drug1 </e12> may reduce the bioavailability of <e20> drug2 </e20> , which is required to achieve the maximum plasma concentration .
+mechanism	alcohol : it has been reported that <e10> drug1 </e10> may enhance the absorption of <e20> drug2 </e20> , causing a 50 % increase in drug2 clearance .
+mechanism	lithium : <e12> drug1 </e12> may decrease the bioavailability of <e20> drug2 </e20> .
+mechanism	drug1 : <e10> drug1 </e10> has been reported to increase plasma levels of <e20> drug2 </e20> , thereby potentially increasing the renal clearance of drug2 .
+mechanism	drug1 : as with other tricyclic _ antidepressants , <e10> drug1 </e10> has been shown to increase <e20> drug2 </e20> plasma levels and to decrease probenecid plasma levels when given concomitantly .
+mechanism	drug1 , ranitidine : <e10> drug1 </e10> has been reported to cause a slight increase in the hepatic clearance of <e20> drug2 </e20> .
+mechanism	the elimination half - life of <e10> drug1 </e10> and ciprofloxacin was increased by <e20> drug2 </e20> .
+mechanism	ketoconazole : coadministration of <e10> drug1 </e10> and <e20> drug2 </e20> , an inhibitor of cyp2c9 , resulted in an increase in the auc of drug2 by # % .
+mechanism	ethanol : clinical evidence indicates that the serum concentration of <e10> drug1 </e10> may increase with <e20> drug2 </e20> and drug2 - containing preparations .
+mechanism	co - medications that induce metabolism of <e10> drug1 </e10> may increase serum concentrations of <e20> drug2 </e20> .
+mechanism	<e10> drug1 </e10> has been reported to decrease plasma concentrations of <e20> drug2 </e20> and its active metabolite , ritonavir .
+mechanism	anticonvulsants : ingestion of <e10> drug1 </e10> may decrease the metabolism of <e20> drug2 </e20> , phenobarbital , phenytoin , carbamazepine , and phenytoin and increase the plasma concentrations of drug2 .
+mechanism	in a study of healthy volunteers , <e10> drug1 </e10> ( 30 mg ) # hours prior to dosing with a # mg <e20> drug2 </e20> dose significantly decreased the mean drug2 auc from # to # hours by # % .
+mechanism	in vitro studies indicate that <e10> drug1 </e10> inhibits <e20> drug2 </e20> metabolism by causing a significant increase in its clearance .
+mechanism	plasma concentrations of <e10> drug1 </e10> are enhanced by <e20> drug2 </e20> , which is inhibited by valdecoxib .
+mechanism	this decrease in bioavailability of <e10> drug1 </e10> may be expected when the same medication is coadministered with <e20> drug2 </e20> .
+mechanism	protease _ inhibitors : amprenavir and <e10> drug1 </e10> decreased the plasma concentrations of <e20> drug2 </e20> and increased the plasma concentrations of drug1 .
+mechanism	agents that are known to inhibit cyp3a4 activity ( e , g , , drug2 , itraconazole , ritonavir , nelfinavir , clarithromycin , <e10> drug1 </e10> , troleandomycin , valdecoxib ) increase the plasma levels of <e20> drug2 </e20> and may result in a decrease in the half - life of drug2 .
+mechanism	however , other published reports have shown that <e10> drug1 </e10> has a weak tendency to increase <e20> drug2 </e20> auc and cmax and increase half - life on the basis of # micrograms of drug1 / kg of body weight in rats .
+mechanism	- drugs that induce hepatic enzymes such as <e10> drug1 </e10> , carbamazepine , phenobarbital , or rifampin may increase <e20> drug1 </e20> clearance by inducing cytochrome p450 3a4 and increasing p - glycoprotein and / or ap2 levels .
+mechanism	rifampin : coadministration of <e10> drug1 </e10> # mg / day for # days with <e20> drug2 </e20> for # days resulted in a 31 % increase in auc of drug2 , and a 41 % increase in cmax and auc .
+mechanism	protease _ inhibitors : <e10> drug1 </e10> has been reported to inhibit the metabolism of <e20> drug2 </e20> .
+mechanism	phenobarbital : it has been reported that <e10> drug1 </e10> , administered at doses of # mg to # mg / day , decreased the serum levels of <e20> drug2 </e20> and other drugs that are highly protein bound ( eg , drug2 , warfarin , and coumarin ) .
+mechanism	plasma concentrations of <e10> drug1 </e10> are approximately # times greater when administered with <e20> drug2 </e20> .
+mechanism	aspirin : when co - administered with <e10> drug1 </e10> , a 50 % decrease in the renal clearance of <e20> drug2 </e20> was observed .
+mechanism	carbamazepine : elevated serum <e10> drug1 </e10> concentrations are observed in patients on concomitant <e20> drug2 </e20> therapy .
+mechanism	cyclosporin : after <e10> drug1 </e10> administration , renal tubular secretion of <e20> drug2 </e20> was approximately 6 - fold higher , and drug2 clearance was approximately 50 % lower , than when drug2 was administered alone .
+mechanism	digoxin : in a study in patients with normal renal function , coadministration of <e10> drug1 </e10> decreased <e20> drug2 </e20> clearance by 23 % ( p = 0 . 002 ) and decreased mean drug2 auc by 46 % ( p = 0 . 0022 ) .
+mechanism	coadministration of <e10> drug1 </e10> ( 20 mg bid ) with <e20> drug2 </e20> ( 7 . 5 % w / v ) in a rat model of anesthesia resulted in an increase in the auc of drug1 from 3 . 5 minutes after drug administration to # minutes .
+mechanism	on the basis of the results of a pharmacokinetic study in healthy subjects , it is possible that <e10> drug1 </e10> interferes with the metabolism of some <e22> drug2 </e22> .
+mechanism	quinolone _ antibiotic s : videx , <e10> drug1 </e10> , and clarithromycin may interfere with the metabolism of <e20> drug2 </e20> , resulting in reduced levels of drug2 and therefore may increase the risk of developing drug interactions .
+mechanism	inhibitors of cyp3a4 ( eg , ketoconazole , itraconazole , erythromycin , clarithromycin , ritonavir , indinavir , <e10> drug1 </e10> , nelfinavir ) have been reported to increase plasma concentrations of <e20> drug2 </e20> and may decrease its pharmacologic effect .
+mechanism	in normal volunteers , single and multiple doses of <e10> drug1 </e10> were found to increase the clearance of <e20> drug2 </e20> and its auc in a dose - dependent manner .
+mechanism	phenytoin , <e10> drug1 </e10> , clofibrate , and valproate inhibit the metabolism of <e20> drug2 </e20> , resulting in a net increase in its bioavailability .
+mechanism	in vitro data indicate that <e10> drug1 </e10> may reduce the <e20> drug2 </e20> renal clearance by a half - dose .
+mechanism	even so <e10> drug1 </e10> may decrease the absorption of <e20> drug2 </e20> and lead to increased serum levels of drug2 .
+mechanism	drug1 : <e10> drug1 </e10> increases the serum concentration of <e20> drug2 </e20> , but not of acetylsalicylic _ acid .
+mechanism	oral contraceptives : in vitro <e10> drug1 </e10> treatment decreased the release of the <e20> drug2 </e20> by 6 - to 15 - fold .
+mechanism	drug1 : <e10> drug1 </e10> increases the clearance of <e20> drug2 </e20> and may thus reduce the therapeutic index of drug2 .
+mechanism	agents that are potent inhibitors of cyp3a4 activity ( e , g , , ketoconazole , itraconazole , erythromycin , ritonavir , clarithromycin , <e10> drug1 </e10> , nelfinavir , saquinavir , indinavir ) may increase the plasma concentrations of <e20> drug2 </e20> , resulting in an increase in auc .
+mechanism	the elimination half - life of <e10> drug1 </e10> was increased by the following : <e20> drug2 </e20> ; the combination of drug2 and ethambutol ; the combination of drug2 and cimetidine ; the combination of drug2 and methotrexate ; the combination of drug2 and ritonavir .
+mechanism	aspirin : in a dose - dependent fashion , <e10> drug1 </e10> decreased the clearance of <e20> drug2 </e20> from approximately 50 % to approximately 25 % ( p = . 05 ) .
+mechanism	drugs that induce cyp3a4 : benzodiazepines , alprazolam , and triazolam : in vitro metabolism studies have shown that <e10> drug1 </e10> may increase the metabolism of the following : carbamazepine , <e20> drug2 </e20> , alprazolam , and triazolam .
+mechanism	the results of the study indicate that <e10> drug1 </e10> increased <e20> drug2 </e20> plasma concentrations by an average of 50 % .
+mechanism	plasma concentrations ( auc ) of <e10> drug1 </e10> were reduced by 50 % when administered concomitantly with <e20> drug2 </e20> .
+mechanism	in vitro data suggest that <e10> drug1 </e10> inhibited <e20> drug1 </e20> metabolism by increasing its clearance from blood .
+mechanism	in vitro , <e10> drug1 </e10> markedly inhibited the metabolism of <e20> drug2 </e20> and its potentate .
+mechanism	phenytoin : in vitro and in vivo studies have shown that <e10> drug1 </e10> can decrease the clearance of <e20> drug2 </e20> by about 50 % .
+mechanism	however , the systemic clearance of <e10> drug1 </e10> was greater in rats with renal insufficiency and <e20> drug2 </e20> treatment than in rats with normal renal function .
+mechanism	allopurinol : the plasma levels of <e10> drug1 </e10> were increased when the doses of <e20> drug2 </e20> and the doses of other drug2 - type _ anticoagulants were increased .
+mechanism	antacids : in vitro studies of antacids , such as drug1 _ hydroxide and drug1 _ chloride , reveal a strong tendency for the <e12> drug1 </e12> to interfere with the absorption of <e20> drug2 </e20> , resulting in a 7 - fold increase in the half - life of drug2 compared to non - antacids .
+mechanism	however , the peak plasma levels of <e10> drug1 </e10> are slightly decreased by the concomitant administration of <e20> drug2 </e20> , a known inhibitor of metabolism .
+mechanism	<e10> drug1 </e10> at # micrograms / ml ( 16 microl ) inhibited <e20> drug2 </e20> absorption and maximal effect was # min ( p = . 01 ) .
+mechanism	drug1 : <e10> drug1 </e10> may enhance <e20> drug2 </e20> absorption , resulting in a higher serum concentration of drug2 .
+mechanism	the elimination half - life of <e10> drug1 </e10> is prolonged by the concomitant administration of a <e22> drug2 </e22> .
+mechanism	absorption of <e10> drug1 </e10> was significantly impaired when the oral solution was administered with <e20> drug2 </e20> .
+mechanism	human pharmacokinetics data suggest that <e11> drug1 </e11> increases plasma levels of <e20> drug2 </e20> and decreases the clearance of digoxin .
+mechanism	cimetidine : in vitro , <e10> drug1 </e10> inhibited <e20> drug2 </e20> uptake and did not decrease ritonavir plasma concentrations in healthy volunteers or in subjects with impaired renal function .
+mechanism	drug1 : <e10> drug1 </e10> may increase the metabolism of <e20> drug2 </e20> , increasing the total intake of drug2 .
+mechanism	furthermore it has been demonstrated that <e10> drug1 </e10> inhibits the metabolism of <e20> drug2 </e20> , resulting in a significant reduction in serum levels of the latter .
+mechanism	oral contraceptives : <e10> drug1 </e10> inhibited the absorption of # mg of <e20> drug2 </e20> , resulting in a 46 % reduction in exposure to drug2 .
+mechanism	pharmacokinetic studies have shown that coadministration of <e11> drug1 </e11> # mg daily with <e20> drug2 </e20> # mg twice daily for # days increased the average auc and cmax by approximately 33 % and 20 % , respectively , and the mean auc of drug1 by approximately 32 % and 20 % , respectively , when administered with metoclopramide .
+mechanism	administration of <e10> drug1 </e10> may reduce the oral absorption of <e20> drug2 </e20> , resulting in an increased estradiol to progesterone ratio .
+mechanism	these studies indicate that oral <e10> drug1 </e10> may enhance the metabolism of the non - steroidal _ anti - inflammatory _ drug <e20> drug2 </e20> and may result in a decrease in its bioavailability .
+mechanism	alcohol : it is possible that <e10> drug1 </e10> may reduce the clearance of <e20> drug2 </e20> .
+mechanism	therefore , it is likely that the metabolism of <e10> drug1 </e10> can be affected by <e20> drug2 </e20> .
+mechanism	- drugs that may inhibit cyp3a4 ( e , g , , ketoconazole , itraconazole , ritonavir , clarithromycin , nefazodone , <e10> drug1 </e10> , indinavir , saquinavir , indinavir _ sulfate , nefazodone _ sulfate , drug1 ) have been reported to prolong and increase the elimination half - life of <e20> drug2 </e20> .
+mechanism	valproate : the concentration of <e10> drug1 </e10> is increased in the blood of patients taking <e20> drug2 </e20> concurrently .
+mechanism	on the basis of pharmacokinetic data from a phase iii trial , <e11> drug1 </e11> is likely to have a larger effect on plasma concentrations of <e20> drug2 </e20> , which are less than additive , than on plasma concentrations of all three known drug2 metabolizing enzymes .
+mechanism	cytochrome p - 450 inducers , <e10> drug1 </e10> , and drug1 may prolong the half - life of <e20> drug2 </e20> and increase the risk of gastrointestinal toxicity .
+mechanism	<e11> drug1 </e11> may inhibit the metabolism of <e20> drug2 </e20> and its potential for renal impairment .
+mechanism	pretreatment of healthy volunteers with <e10> drug1 </e10> ( 50 mg q days ) resulted in a 20 % decrease in the rate of hepatic metabolism of <e20> drug2 </e20> and a 38 % increase in the rate of liver clearance of drug1 .
+mechanism	erythromycin : in an in vitro study , <e10> drug1 </e10> completely inhibited <e20> drug2 </e20> metabolism , thus reversing the drug2 - induced increase in plasma levels .
+mechanism	in em individuals , treatment with <e11> drug1 </e11> for # days increased the <e20> drug2 </e20> plasma concentrations by about 15 % .
+mechanism	multivalent cation - containing products : the following data suggest that <e10> drug1 </e10> tablets and the dosage forms listed in this section may reduce the metabolism of <e20> drug2 </e20> , resulting in increased plasma concentrations and toxicities .
+mechanism	selegiline : <e12> drug1 </e12> , including amphetamines and drug2 , may increase the clearance of <e20> drug2 </e20> and thus may increase the risk of toxicity .
+mechanism	metoprolol - administration of <e10> drug1 </e10> at least # hours before or # hours after <e20> drug2 </e20> markedly decreased the clearance of the drug .
+mechanism	drug interactions with drug1 : <e10> drug1 </e10> is reported to reduce the clearance of the <e22> drug2 </e22> .
+mechanism	anticonvulsants : in patients receiving concomitant administration of <e10> drug1 </e10> and <e20> drug2 </e20> , the auc and cmax of drug1 were reduced by approximately 50 % and approximately 70 % , respectively .
+mechanism	a study in six dogs demonstrates a 25 % reduction in the clearance of <e10> drug1 </e10> in the presence of <e20> drug2 </e20> and an increase in auc of drug1 .
+mechanism	caffeine theobromine grepafloxacin : <e12> drug1 </e12> , such as theobromine , can reduce the absorption of <e20> drug2 </e20> .
+mechanism	probenecid : as a consequence of metabolism by cyp2c9 , <e10> drug1 </e10> increased the elimination half - life of <e20> drug2 </e20> .
+mechanism	agents that are potent inhibitors of cyp3a4 ( eg , ketoconazole , itraconazole , erythromycin , clarithromycin , <e10> drug1 </e10> , itraconazole ) may reduce the clearance of <e20> drug2 </e20> and therefore increase the exposure to drug2 .
+mechanism	other potentially important drug interactions : co - administration of <e10> drug1 </e10> may increase the plasma concentrations of <e20> drug2 </e20> , its oral bioavailability may be impaired , and adverse events may occur more frequently when drug1 is co - administered with a drug that inhibits cyp3a4 ( eg , ketoconazole and itraconazole ) and / or with drugs that inhibit cyp2c9 ( eg , clarithromycin , nefazodone , ritonavir , troleandomycin , indinavir , itraconazole ) .
+mechanism	ethosuximide : <e12> drug1 </e12> may increase the absorption of <e20> drug2 </e20> , a metabolite of ethosuximide , by lowering the renal excretion of drug2 .
+mechanism	<e10> drug1 </e10> is a potent inhibitor of the metabolism of <e20> drug2 </e20> and can therefore enhance its pharmacologic effects .
+mechanism	drug1 : as with other cephalosporins , <e10> drug1 </e10> has been reported to decrease the bioavailability of <e20> drug2 </e20> , a known cyp3a4 inhibitor , resulting in increased plasma levels of drug2 .
+mechanism	in vitro studies indicate that <e10> drug1 </e10> may inhibit <e20> drug2 </e20> metabolism by interfering with the enzyme and / or receptor activity .
+mechanism	drug1 and clarithromycin : <e10> drug1 </e10> and clarithromycin may interfere with the absorption of <e20> drug2 </e20> .
+mechanism	agents that are reported to decrease cyp3a4 activity ( eg , ketoconazole , itraconazole , nefazodone , clarithromycin , ritonavir , <e10> drug1 </e10> , indinavir , saquinavir , saquinavir , saquinavir , indinavir , erythromycin , troleandomycin ) may increase plasma concentrations of <e20> drug2 </e20> .
+mechanism	fluconazole : concomitant administration of <e10> drug1 </e10> and <e20> drug2 </e20> resulted in a 4 - fold increase in auc of drug2 .
+mechanism	in another drug interaction study , <e10> drug1 </e10> was found to inhibit the metabolism of <e20> drug2 </e20> in both in vitro and in vivo studies .
+mechanism	agents that are not metabolized by cyp3a4 ( e , g , , ketoconazole , fluconazole , rifampin , cimetidine , quinine , <e10> drug1 </e10> , fluvoxamine , paroxetine , saquinavir , alfentanil , disopyramide ) may increase plasma levels of <e20> drug2 </e20> .
+mechanism	binding to serum : in vivo studies have demonstrated a significant decrease in the exposure of <e10> drug1 </e10> in patients receiving high dose <e20> drug2 </e20> .
+mechanism	carbamazepine : elevated plasma concentrations of <e10> drug1 </e10> have been reported with concomitant administration of <e20> drug2 </e20> .
+mechanism	ketoconazole : coadministration of <e10> drug1 </e10> with <e20> drug2 </e20> decreased the auc by 43 % .
+mechanism	valproate : <e11> drug1 </e11> decreased the clearance of <e20> drug2 </e20> by 25 % to 40 % ( mean effect , 50 % ) .
+mechanism	products containing calcium _ acetate or other disulfide - containing compounds ( eg , <e10> drug1 </e10> ) may increase the clearance of <e20> drug2 </e20> , leading to a decrease in its metabolism .
+mechanism	rifampin : coadministration of <e10> drug1 </e10> and <e20> drug2 </e20> produced a 40 % decrease in auc of drug1 .
+mechanism	agents with increased heparin effect : <e10> drug1 </e10> has been shown to reduce the steady - state serum levels of <e20> drug2 </e20> by approximately 50 % .
+mechanism	drug1 : aspirin : <e10> drug1 </e10> inhibits absorption of <e20> drug2 </e20> .
+mechanism	prednisolone : <e10> drug1 </e10> # mg orally twice daily for # days in healthy volunteers resulted in a mean reduction in <e20> drug2 </e20> plasma levels of # % ( 95 % ci : 5 . 9 to 10 . 6 % ) , a greater reduction in plasma concentration ( 0 . 50 % decrease ; 95 % ci : - 0 . 24 to 0 . 77 % ) , and a decreased auc of 8 - 10 mg / h ( 18 . 3 % decrease ; 95 % ci : 8 . 5 to 20 . 5 % ) .
+mechanism	benzodiazepines : combination <e12> drug1 </e12> , including alprazolam , produce a high degree of metabolism of <e20> drug2 </e20> , resulting in a mean elimination half - life of approximately # hours , and a high degree of inhibition of the cyp3a4 enzyme involved in metabolism of high dose oral # mg of alprazolam a day .
+mechanism	<e10> drug1 </e10> has been reported to increase <e20> drug2 </e20> exposure and increase the half - life of drug2 .
+mechanism	another oral azole _ antifungal , <e10> drug1 </e10> , inhibited <e20> drug1 </e20> absorption in a dose - dependent fashion .
+mechanism	antidepressants : in a pharmacokinetic study of healthy volunteers receiving <e11> drug1 </e11> and <e20> drug2 </e20> concurrently , drug2 auc and cmax increased approximately 50 % and approximately 25 % , respectively , while drug2 auc decreased approximately 35 % when the two drugs were coadministered .
+mechanism	at higher than recommended doses , <e10> drug1 </e10> may inhibit the metabolism of <e20> drug2 </e20> by lowering its level .
+mechanism	phenytoin / drug1 : <e10> drug1 </e10> may decrease <e20> drug2 </e20> clearance , resulting in an increased plasma concentration of drug2 .
+mechanism	hepatic enzyme inducers , including the <e12> drug1 </e12> , have been shown to decrease plasma levels of <e20> drug2 </e20> .
+mechanism	co - administration of <e10> drug1 </e10> and <e20> drug2 </e20> ( cas # 40 - 45 - 9 - 2 ) decreased drug1 auc by 24 % and auc ( min ) by 15 % .
+mechanism	magnesium - and aluminum - containing drug1 ( as with magan and other <e12> drug1 </e12> ) inhibit the metabolism of <e20> drug2 </e20> , resulting in a high concentration of 5 - hydroxymethybilterdiene in the blood .
+mechanism	steady - state <e10> drug1 </e10> serum concentrations are decreased by approximately 10 % following concomitant administration of <e20> drug2 </e20> .
+mechanism	ethanol : clinical evidence suggests that <e10> drug1 </e10> may increase the absorption of <e20> drug2 </e20> .
+mechanism	the absorption of <e10> drug1 </e10> from gastric mucosa was about 80 % during oral administration with 50 mg <e20> drug1 </e20> once daily for 5 days , which is much higher than that of gastric mucosa alone .
+mechanism	co - medications that induce hepatic enzymes such as phenytoin , phenobarbital , carbamazepine , or <e10> drug1 </e10> may interfere with the metabolism of <e20> drug2 </e20> and increase drug2 levels .
+mechanism	in well - controlled patients , <e10> drug1 </e10> significantly reduced <e20> drug2 </e20> plasma levels and resulted in a 5 % increase in the auc for drug2 ( p = 0 . 008 ) .
+mechanism	binding to serum proteins : thus , <e10> drug1 </e10> inhibited <e20> drug2 </e20> in vitro by approximately two - thirds .
+mechanism	drug1 : <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> , which is used to treat rheumatic disease .
+mechanism	in # other drugs , coadministration of <e10> drug1 </e10> may have resulted in a reduction in the absorption of <e20> drug2 </e20> .
+mechanism	caffeine drug1 <e10> drug1 </e10> may interfere with the metabolism of drug2 or <e20> drug2 </e20> to its active metabolite , theobromine .
+mechanism	administration of <e10> drug1 </e10> may decrease the clearance of <e20> drug2 </e20> , causing increased tissue toxicity .
+mechanism	methenamine therapy : urinary concentrations of <e10> drug1 </e10> were reduced by approximately 42 % following administration of <e20> drug2 </e20> or the ethinyl _ estradiol metabolite ( cerebrospinal _ fluids ) .
+mechanism	quinolone _ antibiotic s : videx , ciprofloxacin , and <e10> drug1 </e10> may inhibit <e20> drug2 </e20> absorption and , thus , decrease serum drug2 concentrations .
+mechanism	in vitro data suggest that <e10> drug1 </e10> may decrease the plasma concentrations of <e20> drug2 </e20> and alfentanil .
+mechanism	hydrochlorothiazide : in vitro studies indicate a significant decrease in the absorption of <e10> drug1 </e10> following administration of <e20> drug2 </e20> and other beta - adrenergic _ blocking _ agents .
+mechanism	human pharmacokinetic data from a single study of # mg of # mg of <e11> drug1 </e11> capsules daily for # days demonstrated a # - fold increase in cmax and # - fold increase in auc for a single # mg dose of # mg <e20> drug2 </e20> .
+mechanism	at higher than # mg / kg doses , the combination of <e10> drug1 </e10> and <e20> drug2 </e20> was found to cause a two - to threefold increase in auc of drug1 .
+mechanism	although specific studies have not been performed , <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> .
+mechanism	the plasma concentration of <e10> drug1 </e10> was increased by approximately 38 % when it was administered with <e20> drug2 </e20> .
+mechanism	in vitro studies have shown that <e10> drug1 </e10> may reduce the in vitro metabolism of <e20> drug2 </e20> by inhibiting cyp2c19 .
+mechanism	the oral bioavailability of <e10> drug1 </e10> is approximately 5 % lower when it is given with <e20> drug2 </e20> .
+mechanism	substances that are potent inhibitors of cyp3a4 ( eg , <e10> drug1 </e10> , itraconazole , ritonavir , nelfinavir , clarithromycin , indinavir , ritonavir , saquinavir , indinavir , telithromycin ) have the potential to increase plasma concentrations of <e20> drug2 </e20> by approximately 25 % .
+mechanism	hiv _ protease _ inhibitors : <e10> drug1 </e10> may increase the level of <e20> drug2 </e20> and may prolong plasma concentrations .
+mechanism	cyclosporine : combination <e12> drug1 </e12> may increase the clearance of <e20> drug2 </e20> .
+mechanism	multivalent cation - containing products : cation - containing drugs such as <e11> drug1 </e11> may reduce the absorption of other <e22> drug2 </e22> .
+mechanism	in another drug - drug interaction study in volunteers , <e10> drug1 </e10> given concomitantly with <e20> drug2 </e20> # mg increased the auc of drug2 by 5 - fold and the cmax by 23 % .
+mechanism	drug1 / phenobarbital : <e10> drug1 </e10> decreases the metabolism of <e20> drug2 </e20> .
+mechanism	agents with increased interaction with cholestyramine : ( i ) drug1 : <e10> drug1 </e10> decreased the elimination of <e20> drug2 </e20> .
+mechanism	binding to serum albumin : <e10> drug1 </e10> decreased the serum concentrations of <e20> drug2 </e20> and drug2 _ hcl by approximately 33 % and approximately 26 % , respectively .
+mechanism	phenytoin / phenobarbital : <e10> drug1 </e10> reduced the plasma levels of <e20> drug2 </e20> and its active metabolite ( methyl drug2 ) .
+mechanism	co - medications that induce cyp3a4 activity ( eg , paroxetine , fluoxetine , paroxetine _ hcl , and <e10> drug1 </e10> ) increase the exposure of <e20> drug2 </e20> .
+mechanism	ketoconazole : in vitro studies have shown that <e10> drug1 </e10> blocks the absorption of <e20> drug2 </e20> , causing a decrease in plasma levels of drug2 .
+mechanism	mercaptopurine / azathioprine : in a randomized clinical trial , the maximum plasma concentrations of <e10> drug1 </e10> ( 50 mg daily ) were reduced by 29 % with concomitant administration of <e20> drug2 </e20> ( 2 mg daily ) compared to placebo , with a mean increase in auc of 46 % and a mean decrease in auc of 48 % .
+mechanism	the half - life of <e10> drug1 </e10> is increased by the concomitant administration of <e20> drug2 </e20> .
+mechanism	in healthy subjects , <e10> drug1 </e10> significantly inhibited the metabolism of <e20> drug2 </e20> , resulting in a decrease in the extent of metabolism of drug2 by as much as 10 % .
+mechanism	cyclosporin : reports indicate that <e10> drug1 </e10> may interfere with the metabolism of <e20> drug2 </e20> .
+mechanism	the absorption of <e10> drug1 </e10> was decreased by # % when it was given with <e20> drug2 </e20> .
+mechanism	multivalent cation - containing products : <e10> drug1 </e10> has been reported to decrease the bioavailability of cation - containing products such as magnesium salts , <e20> drug2 </e20> , some multivalent cation - containing products ( e , g , , magnesium salts , calcium supplements , boric _ acid , acetazolamide , boric _ acid ) , magnesium salts and boric _ acid .
+mechanism	because <e12> drug1 </e12> may interfere with absorption of <e20> drug2 </e20> , the recommended dose of drug2 for the antacid concomitantly is higher .
+mechanism	rifampicin : in vitro , <e10> drug1 </e10> causes a 3 - to 5 - fold increase in <e20> drug2 </e20> clearance .
+mechanism	although specific studies have not been conducted , there is the potential for oral <e10> drug1 </e10> to decrease the bioavailability of <e20> drug2 </e20> by increasing its systemic exposure .
+mechanism	a study in healthy volunteers found that <e10> drug1 </e10> # mg increased plasma levels of <e20> drug2 </e20> by 38 % .
+mechanism	although no clinical studies have been performed , <e10> drug1 </e10> may decrease the oral absorption of <e20> drug2 </e20> .
+mechanism	drug1 : <e10> drug1 </e10> may enhance the absorption of oral <e22> drug2 </e22> by decreasing the blood levels of the drug2 .
+mechanism	uricosuric _ agents : since the metabolism of <e10> drug1 </e10> is also highly dependent on <e20> drug2 </e20> , an drug1 metabolite containing the cyp3a4 active site ( cmire ) may have a significantly higher therapeutic index than drug1 alone .
+mechanism	<e10> drug1 </e10> may decrease the bioavailability of oral <e20> drug2 </e20> by inhibiting hepatic enzymes involved in acetaminophen metabolism .
+mechanism	inhibitors of cyp3a4 ( alprazolam , <e10> drug1 </e10> , clarithromycin , itraconazole , nefazodone , troleandomycin , troleandomycin , clarithromycin ) may decrease the clearance of <e20> drug2 </e20> by increasing the metabolism of drug2 .
+mechanism	in vitro studies indicate that <e10> drug1 </e10> may have an inhibitory effect on <e20> drug2 </e20> metabolism .
+mechanism	colestipol : plasma <e10> drug1 </e10> concentrations are increased by approximately 50 % when <e20> drug2 </e20> is coadministered .
+mechanism	oral contraceptives : <e10> drug1 </e10> may decrease the absorption of <e20> drug2 </e20> .
+mechanism	cyclosporin : after a single administration of <e10> drug1 </e10> to healthy volunteers , plasma concentrations of <e20> drug2 </e20> increased by 1 . 9 % .
+mechanism	rifampin : coadministration of <e11> drug1 </e11> with <e20> drug2 </e20> resulted in an increase in its clearance of approximately 40 % compared with administration of drug1 alone .
+mechanism	lithium : <e10> drug1 </e10> may increase the plasma concentrations of <e20> drug2 </e20> , causing a shortening of the half - life of drug2 in plasma .
+mechanism	warfarin : co - administration of <e10> drug1 </e10> # mg was associated with a 40 % increase in the steady - state cmax of <e20> drug2 </e20> # mg ( p = # ) .
+mechanism	agents that are potent inhibitors of cyp3a4 ( e , g , , drug2 , <e10> drug1 </e10> , ritonavir , clarithromycin , indinavir , nefazodone , nelfinavir , saquinavir , telithromycin ) may increase plasma concentrations of <e20> drug2 </e20> .
+mechanism	naproxen , naproxen _ sodium , phenytoin , and <e10> drug1 </e10> have been reported to increase the clearance of <e20> drug2 </e20> , thus prolonging its systemic exposure .
+mechanism	cyclosporin : after # days of <e10> drug1 </e10> treatment , <e20> drug2 </e20> serum levels decreased by 39 % .
+mechanism	colestipol - concomitant intake of <e10> drug1 </e10> and <e20> drug2 </e20> has been reported to increase the cmax of drug2 by ~ 25 % and decrease the cmin by 25 % .
+mechanism	erythromycin : in vitro , <e10> drug1 </e10> increased <e20> drug1 </e20> metabolism by increasing the rate of drug1 metabolism .
+mechanism	antacids or <e10> drug1 </e10> may reduce absorption of <e20> drug2 </e20> , which may increase the exposure of other antacids or drug1 .
+mechanism	digoxin : coadministration of <e10> drug1 </e10> at # mg / kg with <e20> drug2 </e20> produced a 24 % increase in average auc of drug1 and an increase in mean auc of drug1 from # to # hours post - dose .
+mechanism	the plasma concentration of <e10> drug1 </e10> may be increased by coadministration of <e20> drug2 </e20> .
+mechanism	results of preliminary in vitro studies indicate that <e11> drug1 </e11> may enhance the metabolism of ketoconazole and other <e22> drug2 </e22> , resulting in decreased plasma concentrations of the macrolide .
+mechanism	there is a tendency for <e10> drug1 </e10> to increase the clearance of <e20> drug2 </e20> , but the effect is not clinically significant .
+mechanism	protease _ inhibitors : in vitro studies have shown that <e10> drug1 </e10> increased the <e20> drug2 </e20> half - life by approximately 3 hours .
+mechanism	simvastatin and other carbamazepine _ anticonvulsants ( <e10> drug1 </e10> ) have been reported to enhance the clearance of <e20> drug2 </e20> , thus increasing its systemic exposure .
+mechanism	drug1 : <e10> drug1 </e10> may increase the absorption of <e20> drug2 </e20> and cause an increase in the clearance of drug2 .
+mechanism	drug1 ( primidone ) : <e10> drug1 </e10> decreased <e20> drug2 </e20> clearance ( 9 . 8 % decrease per hour ) and caused a 7 % increase in clorazepate clearance ( 7 % increase per hour ) .
+mechanism	in another drug - drug interaction study in healthy volunteers , <e10> drug1 </e10> # mg twice daily for # days was found to reduce the auc of <e20> drug2 </e20> by 29 % ( p = 0 . 02 ) .
+mechanism	studies showed that <e10> drug1 </e10> decreased the absorption of <e20> drug2 </e20> , and that drug1 decreased the absorption of both dicumarol and gentamicin .
+mechanism	drugs which inhibit cyp3a4 ( eg , ketoconazole , itraconazole , nefazodone , troleandomycin , clarithromycin , ritonavir , <e10> drug1 </e10> , saquinavir , indinavir , indinavir - sulfate , itraconazole ) may increase plasma levels of <e20> drug2 </e20> .
+mechanism	the clearance of <e10> drug1 </e10> decreased approximately 40 % with <e20> drug2 </e20> administered concurrently , with a maximum cmax of # mg / liter .
+mechanism	inhibitors of cyp1a2 : a 25 - mg <e10> drug1 </e10> dose produced a reduction in the steady - state plasma levels of <e20> drug2 </e20> ( the active metabolite of drug2 ) from # + / - 3 to # + / - 1 micrograms / ml .
+mechanism	the concomitant use of <e10> drug1 </e10> may decrease the bioavailability of <e20> drug2 </e20> , resulting in lower peak plasma levels and lower mean cmax and auc values .
+mechanism	this antagonistic effect on the metabolism of <e10> drug1 </e10> may occur when the drug is administered concomitantly with drugs that affect hepatic enzymes , e , g , , carbamazepine , <e20> drug2 </e20> , phenytoin , phenytoin sulfate , and ketoconazole .
+mechanism	therophylline : a recent in vitro study demonstrated that <e10> drug1 </e10> ( theophylline ) may reduce the metabolism of <e20> drug2 </e20> , which has been demonstrated to cause bone loss .
+mechanism	anticonvulsants ( carbamazepine , felbamate , drug2 , drug1 , drug1 _ succinate , primidone , <e10> drug1 </e10> , tacrolimus , cisapride ) : increased <e20> drug2 </e20> clearance and the potential for a reduction in the duration of action of drug2 , drug1 , drug1 _ succinate , primidone , and tacrolimus , and the concomitant presence of very low serum levels of drug2 .
+mechanism	cyclosporin : after administration of <e10> drug1 </e10> to normal volunteers , serum concentrations of <e20> drug2 </e20> were approximately two - fold higher than with any other previously reported oral contraceptive ( approximately # to # times higher ) .
+mechanism	phenobarbital : coadministration of <e10> drug1 </e10> and <e20> drug2 </e20> significantly increased auc values of drug2 by 28 % .
+mechanism	systemic exposure to <e10> drug1 </e10> can increase the clearance of <e20> drug2 </e20> , which is a potent inhibitor of cyp2c9 .
+mechanism	in vitro , <e10> drug1 </e10> significantly inhibited the absorption of <e20> drug2 </e20> and did not interfere with the renal excretion of drug2 .
+mechanism	drug1 : <e10> drug1 </e10> may increase the clearance of <e20> drug2 </e20> , leading to increased plasma concentrations .
+mechanism	concomitant single dose administration of <e10> drug1 </e10> # mg decreased the <e20> drug2 </e20> clearance by 42 % ( p = # ) and the elimination half - life by 54 % ( p = # ) .
+mechanism	cimetidine : in a study in normal volunteers , <e10> drug1 </e10> increased the auc of <e20> drug2 </e20> by # % ( approximately # % increase ) .
+mechanism	protease _ inhibitors : in vitro , <e10> drug1 </e10> decreased the bioavailability of <e20> drug2 </e20> , midazolam , and propoxyphene .
+mechanism	corticosteroids : dexamethasone ( <e10> drug1 </e10> ) may reduce the absorption of <e20> drug2 </e20> .
+mechanism	drug1 : <e10> drug1 </e10> inhibits the metabolism of <e20> drug2 </e20> , causing a reduction in its half - life by 43 % .
+mechanism	colestipol : plasma concentrations of <e10> drug1 </e10> are increased when it is given concurrently with <e20> drug2 </e20> , resulting in a decrease in the elimination half - life of drug2 .
+mechanism	furthermore it has been shown that the pharmacokinetics of <e11> drug1 </e11> is significantly increased when administered concomitantly with <e20> drug2 </e20> .
+mechanism	plasma levels of <e10> drug1 </e10> were increased approximately twofold following administration of <e20> drug2 </e20> in healthy volunteers , but did not significantly increase in a patient with severe hypokalemic encephalopathy .
+mechanism	rifampin : coadministration of <e11> drug1 </e11> # mg with <e20> drug2 </e20> # mg decreased drug2 serum levels by 38 % .
+mechanism	other strong selective serotonin reuptake inhibitors ( <e12> drug1 </e12> ) have been reported to decrease <e20> drug2 </e20> s serum levels , causing potential drug interactions .
+mechanism	in a multiple - dose study , coadministration of <e10> drug1 </e10> # mg on the day of dosing with <e20> drug2 </e20> # mg increased drug2 auc by a mean of 30 % and cmax by a mean of 10 % .
+mechanism	studies showed that <e10> drug1 </e10> decreased the bioavailability of <e20> drug2 </e20> , and increased the rate of elimination of fluvastatin .
+mechanism	steady - state <e10> drug1 </e10> concentrations were # % higher in # healthy volunteers taking <e20> drug2 </e20> or # % higher in # healthy volunteers taking # mg / day of drug1 .
+mechanism	in an in vitro study , <e10> drug1 </e10> was found to decrease the systemic exposure of <e20> drug2 </e20> by about 15 % in healthy volunteers .
+mechanism	in one man , <e10> drug1 </e10> # mg caused a 42 % increase in <e20> drug2 </e20> dose , which was associated with a decrease in serum concentrations of the latter .
+mechanism	however , the systemic exposure of <e11> drug1 </e11> is reduced by about 50 % when administered concomitantly with other <e22> drug2 </e22> .
+mechanism	single doses of <e11> drug1 </e11> decreased cmax and auc of <e20> drug2 </e20> .
+mechanism	<e10> drug1 </e10> has been shown to antagonize the gastrointestinal absorption of drugs that are predominantly protein bound ( such as <e20> drug2 </e20> ) or that have poor protein binding ( such as phenytoin , clarithromycin and cimetidine ) .
+mechanism	antacids or h _ 2 _ receptor _ antagonists , including <e10> drug1 </e10> , interfere with the absorption of <e20> drug2 </e20> , resulting in a reduction in plasma levels .
+mechanism	ketoconazole : coadministration of <e10> drug1 </e10> tablets and <e20> drug2 </e20> decreased the plasma concentration of both drugs by approximately 50 % .
+mechanism	cyclosporine , digoxin , methotrexate and phenytoin : although <e10> drug1 </e10> can decrease <e20> drug2 </e20> metabolism in vitro , it is not known if these drugs increase or decrease drug2 blood levels in vivo .
+mechanism	cimetidine - in studies in healthy volunteers , the daily <e10> drug1 </e10> dose of # mg was found to significantly decrease the clearance of <e20> drug2 </e20> by 43 % and increased the fraction of cytochrome p - 450 ( cyp ) 3a4 substrates that were active by 46 % .
+mechanism	cytochrome p - 450 inducers , such as <e10> drug1 </e10> , have been reported to decrease the clearance of <e20> drug2 </e20> .
+mechanism	plasma levels of <e10> drug1 </e10> were increased by # to # fold when administered with <e20> drug2 </e20> , and the two drugs were expected to co - administrate .
+mechanism	phenytoin : in a study in healthy subjects , co - administration of <e10> drug1 </e10> with <e20> drug2 </e20> reduced the auc of drug2 by approximately 20 % .
+mechanism	the half - life of <e10> drug1 </e10> in rats is prolonged and is increased approximately tenfold by coadministration with <e20> drug2 </e20> .
