@@ -5,14 +5,14 @@ Cite as:	arXiv:2101.09914 [cs.CL]
 https://arxiv.org/abs/2101.09914
 ## Abstract
 The rapid growth in literature accumulates diverse and yet comprehensive biomedical knowledge hidden to be mined such as drug interactions. However, it is difficult to extract the heterogeneous knowledge to retrieve or even discover the latest and novel knowledge in an efficient manner. To address such a problem, we propose EGFI for extracting and consolidating drug interactions from large-scale medical literature text data. Specifically, EGFI consists of two parts: classification and generation. In the classification part, EGFI encompasses the language model BioBERT which has been comprehensively pre-trained on biomedical corpus. In particular, we propose the multihead self-attention mechanism and packed BiGRU to fuse multiple semantic information for rigorous context modeling. In the generation part, EGFI utilizes another pre-trained language model BioGPT-2 where the generation sentences are selected based on filtering rules. We evaluated the classification part on “DDIs 2013” dataset and “DDTs” dataset, achieving the F1 scores of 0.842 and 0.720 respectively. Moreover, we applied the classification part to distinguish high-quality generated sentences and verified with the existing growth truth to confirm the filtered sentences. The generated sentences that are not recorded in DrugBank and DDIs 2013 dataset also demonstrated the potential of EGFI to identify novel drug relationships.
-## Model Structure
+<!-- ## Model Structure
 <div align="center">
 <p><img src="Classification Part.pdf" width="800" /></p>
 </div>
 
 <div align="center">
 <p><img src="GenerationPart.pdf" width="800" /></p>
-</div>
+</div> -->
 ## Environment
 The test was conducted in the linux server with GTX2080Ti and the running environment is as follows:
 * python 3.7
