@@ -37,7 +37,7 @@ logging.basicConfig(level=logging.INFO,
 DEVICE = 'cuda:0'
 VALID_TIMES = 20
 
-#超参数
+# hyperparameter
 hidden_dropout_prob = 0.3
 num_labels = 6
 learning_rate = 1e-5
@@ -48,9 +48,9 @@ batch_size = 16
 # model_name = 'bert-base-uncased'
 # MODEL_PATH = r'D:\programming\BERT\Pretrained_models\bert-base-uncased'
 #
-# # b. 导入配置文件
+# # import configure file
 # model_config = BertConfig.from_pretrained(model_name)
-# # 修改配置
+# # modify configure
 # model_config.output_hidden_states = True
 # model_config.output_attentions = True
 
@@ -144,7 +144,7 @@ def train(config, log_path, lr):
     log_f = open(log_path, 'a')
 
 
-    # 加载dataloader
+    # load dataloader
     train_dataset = torch.load(os.path.join(config.ROOT_DIR, 'train.pt'))
     train_loader = DataLoader(train_dataset, config.BATCH_SIZE, shuffle=True)
 
@@ -154,7 +154,7 @@ def train(config, log_path, lr):
     logging.info('Number of train pair: {}'.format(len(train_dataset)))
     logging.info('Number of test pair: {}'.format(len(test_dataset)))
 
-    # 创建模型
+    # create model
     # model = REModel(device=DEVICE, model_name=model_name, MODEL_PATH=MODEL_PATH)
     # bert_config = BertConfig.from_pretrained("bert-base-uncased", num_labels=num_labels,
     #                                     )
@@ -285,13 +285,13 @@ def train(config, log_path, lr):
             # try:
             train_loss, train_pred = run_iter(batch=train_batch, is_training=True)
             # except:
-            #     print("fucking windows:train")
+            #     print("train window error")
             #     continue
 
             train_loss_sum += train_loss.item()
-            # 添加label
+            # add label
             train_labels.extend(train_batch[3])
-            # 添加预测值
+            # add preds
             train_preds.extend(train_pred)
 
 
@@ -343,7 +343,7 @@ def train(config, log_path, lr):
             #         'Epoch {:.2f}: train loss = {:.4f}, train f1 = {:.4f}, test loss = {:.4f}, test f1 = {:.4f}, test auc = {:.4f}'.format(
             #             progress, train_loss, train_f1, valid_loss, valid_f1, valid_accu))
             #
-            #     # 选择更好的f1值的model
+            #     # choose model with better F1 value
             #     if valid_f1 > best_f1:
             #         best_f1 = valid_f1
             #         model_filename = ('{}-{:.4f}.pkl'.format(config.DATA_SET, valid_f1))
@@ -371,7 +371,7 @@ def train(config, log_path, lr):
                 try:
                     valid_loss, valid_pred = run_iter(batch=valid_batch, is_training=False)
                 except:
-                    print("fucking windows:test")
+                    print("test window error")
                     continue
 
                 # valid_loss, valid_pred = run_iter(batch=valid_batch, is_training=False)
@@ -381,20 +381,6 @@ def train(config, log_path, lr):
                 valid_labels_full.extend(valid_batch[3])
                 valid_preds_full.extend(valid_pred)
 
-        # with torch.no_grad():
-        #     for valid_batch in valid_loader:
-        #         try:
-        #             valid_loss, valid_pred = run_iter(batch=valid_batch, is_training=False)
-        #         except:
-        #             print("fucking windows:test")
-        #             continue
-        #
-        #         # valid_loss, valid_pred = run_iter(batch=valid_batch, is_training=False)
-        #
-        #         valid_loss_sum_full += valid_loss.item()
-        #
-        #         valid_labels_full.extend(valid_batch[3])
-        #         valid_preds_full.extend(valid_pred)
 
         torch.set_grad_enabled(True)
 
@@ -459,21 +445,12 @@ if __name__ == '__main__':
         start = time.time()
         config.LEARNING_RATE = lr / 100000.0
         config.log()
-        # try:
+
         F = train(config, 'log/dti/e-5.log', lr)
         end = time.time()
         time_spend = end-start
         log_t.write('spend time={}\tlr={}\n'.format(time_spend, config.LEARNING_RATE))
         log_t.flush()
-        # except:
-        #     print("fuck windows")
-        #     continue
-
-
-
-
-
-
 
 
     # for lr in range(1, 11):
