@@ -37,7 +37,7 @@ logging.basicConfig(level=logging.INFO,
 DEVICE = 'cuda:0'
 VALID_TIMES = 20
 
-#超参数
+# hyperparameter
 hidden_dropout_prob = 0.3
 num_labels = 5
 learning_rate = 1e-5
@@ -48,9 +48,9 @@ batch_size = 16
 # model_name = 'bert-base-uncased'
 # MODEL_PATH = r'D:\programming\BERT\Pretrained_models\bert-base-uncased'
 #
-# # b. 导入配置文件
+# # b. import configure file
 # model_config = BertConfig.from_pretrained(model_name)
-# # 修改配置
+# # modify configure
 # model_config.output_hidden_states = True
 # model_config.output_attentions = True
 
@@ -170,7 +170,7 @@ def train(config, log_path, lr):
     log_f = open(log_path, 'a')
 
 
-    # 加载dataloader
+    # load dataloader
     train_dataset = torch.load(os.path.join(config.ROOT_DIR, 'generated data/train_context0.5.pt'))
     train_loader = DataLoader(train_dataset, config.BATCH_SIZE, shuffle=True)
 
@@ -180,7 +180,7 @@ def train(config, log_path, lr):
     logging.info('Number of train pair: {}'.format(len(train_dataset)))
     logging.info('Number of test pair: {}'.format(len(test_dataset)))
 
-    # 创建模型
+    # create model
     # model = REModel(device=DEVICE, model_name=model_name, MODEL_PATH=MODEL_PATH)
     # bert_config = BertConfig.from_pretrained("bert-base-uncased", num_labels=num_labels,
     #                                     )
@@ -292,9 +292,9 @@ def train(config, log_path, lr):
             #     continue
 
             train_loss_sum += train_loss.item()
-            # 添加label
+            # add label
             train_labels.extend(train_batch[3])
-            # 添加预测值
+            # add preds
             train_preds.extend(train_pred)
 
 
@@ -322,7 +322,7 @@ def train(config, log_path, lr):
         #         try:
         #             valid_loss, valid_pred = run_iter(batch=valid_batch, is_training=False)
         #         except:
-        #             print("fucking windows:test")
+        #             print("window error")
         #             continue
         #
         #         # valid_loss, valid_pred = run_iter(batch=valid_batch, is_training=False)
@@ -372,12 +372,6 @@ def train(config, log_path, lr):
 
         log_f.write('{}\tlr={}\n'.format(model_filename, config.LEARNING_RATE))
         log_f.flush()
-
-
-
-
-
-
 
     return best_f1
 
